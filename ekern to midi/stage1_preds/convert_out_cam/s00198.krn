@@ -1,0 +1,40 @@
+**kern	**kern
+*clefF4	*clefG2
+*k[b-e-]	*k[b-e-]
+*M6/8	*M6/8
+=-	=-
+*	*^
+4.d 4.f	4ff	4.b-
+.	8ff	.
+4.d- 4.f	4ff	4.b
+.	8ff	.
+=	=	=
+4c 4g	4ff	4.cc
+8r	8ee	.
+.	ddq	.
+4r	8ccL	4.r
+.	8b	.
+8r	8ccJ	.
+=	=	=
+4.c 4.g	4ee-	4.cc
+.	8ee-	.
+4.A 4.g-	4ee-	4.cc
+.	8ee-	.
+=	=	=
+4.B- 4.f	4ee-	4.b-
+.	8dd	.
+.	ee-q	.
+8B-L	8ddL	4.r
+8f	8cc	.
+8fJ	8ddJ	.
+*	*v	*v
+=	=
+8cL	4.ee-
+8f	.
+8fJ	.
+.	ddq
+8e-L	8ccL
+8f	8b
+8fJ	8ccJ
+=	=
+*-	*-

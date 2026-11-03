@@ -1,0 +1,52 @@
+[
+  {
+    "note": "F#6",
+    "offset": 7.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "E-6",
+    "offset": 7.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-5",
+    "offset": 9.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "E-4",
+    "offset": 0.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "E-4",
+    "offset": 2.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#3",
+    "offset": 3.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "E-4",
+    "offset": 3.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#3",
+    "offset": 6.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-3",
+    "offset": 9.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-3",
+    "offset": 11.0,
+    "issue": "accidental_outside_key_signature"
+  }
+]

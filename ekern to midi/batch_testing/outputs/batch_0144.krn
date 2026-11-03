@@ -1,0 +1,53 @@
+**kern	**kern
+*clefG2	*clefG2
+*k[b-e-a-d-]	*k[b-e-a-d-]
+*M4/4	*M4/4
+*met(C)	*met(C)
+=-	=-
+12eL	12ggL
+12f	12ff
+12gJ	12eeJ
+12a-L	12ffL
+12g	12gg
+12fJ	12aa-J
+12gL	12bb-L
+12a-	12aa-
+12b-J	12ggJ
+12a-L	12cccL
+12cc	12aa-
+12b-J	12bb-J
+=	=
+8a-	8ccc
+8r	8r
+4r	4r
+*clefF4	*
+2AAA: 2CC: 2FF: 2AA:	2F: 2c: 2f:
+=	=
+2BBB-: 2DD-: 2GG-: 2BB-:	2B-: 2d-: 2g-:
+2BBB: 2DD: 2GG: 2BB:	2G: 2d: 2f: 2g:
+=	=
+1CC: 1FF: 1AA-: 1C:	1A-: 1c: 1f: 1a-:
+=	=
+1CC: 1EE: 1GG: 1C:	1G: 1B-: 1c: 1e:
+=	=
+*^	*
+32r	2FFF	2r
+32AAA-LLL	.	.
+32CC	.	.
+32FF	.	.
+32F	.	.
+32A-	.	.
+32c	.	.
+32f	.	.
+32c	.	.
+32A-	.	.
+32F	.	.
+32C	.	.
+32AA-	.	.
+32FF	.	.
+32CC	.	.
+32AAA-JJJ	.	.
+2r	2FFF	2r
+*v	*v	*
+==	==
+*-	*-

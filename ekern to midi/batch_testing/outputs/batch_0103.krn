@@ -1,0 +1,43 @@
+**kern	**kern
+*clefF4	*clefG2
+*k[]	*k[]
+*M2/4	*M2/4
+=-	=-
+16B#LL	4dd# 4ff# 4gg#
+16f#	.
+16d#	.
+16B#JJ	.
+16ALL	4ff# 4fff#
+16f#	.
+16d#	.
+16B#JJ	.
+=	=
+16ALL	2ff# 2fff#
+16f#	.
+16d#	.
+16cJJ	.
+16ALL	.
+16f#	.
+16d#	.
+16cJJ	.
+=	=
+*k[f#c#g#d#]	*k[f#c#g#d#]
+16F#LL	2aa 2aaa
+16d#	.
+16c	.
+16AJJ	.
+16F#LL	.
+16d#	.
+16c	.
+16AJJ	.
+=	=
+16D#LL	16aa 16aaa
+16c	16aLL
+16A	16dd#
+16F#JJ	16ff#JJ
+16D#LL	16aaLL
+16c	16ddd#
+16A	16fff#
+16F#JJ	16ddd#JJ
+=	=
+*-	*-

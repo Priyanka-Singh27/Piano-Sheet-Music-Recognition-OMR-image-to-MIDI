@@ -1,0 +1,36 @@
+[
+  {
+    "note": "E#5",
+    "offset": 0.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "E#5",
+    "offset": 1.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 6,
+    "column": 1,
+    "token": "16 eee <s> 16 ddd <s> 16 aa",
+    "token_index": 41,
+    "confidence": 0.5022
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 10,
+    "column": 1,
+    "token": "16 eee <s> 16 ddd <s> 16 ccc <s> 16 aa",
+    "token_index": 85,
+    "confidence": 0.6104
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 15,
+    "column": 1,
+    "token": "8 eee <s> 8 ddd <s> 8 ccc <s> 8 aa",
+    "token_index": 133,
+    "confidence": 0.6582
+  }
+]

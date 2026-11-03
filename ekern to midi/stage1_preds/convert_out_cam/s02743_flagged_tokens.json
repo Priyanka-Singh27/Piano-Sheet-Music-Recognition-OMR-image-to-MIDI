@@ -1,0 +1,89 @@
+[
+  {
+    "note": "C##3",
+    "offset": 16.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##3",
+    "offset": 17.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##4",
+    "offset": 18.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##4",
+    "offset": 18.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "E##4",
+    "offset": 19.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##4",
+    "offset": 19.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##4",
+    "offset": 4.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##2",
+    "offset": 16.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##2",
+    "offset": 17.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##2",
+    "offset": 18.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##2",
+    "offset": 19.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 7,
+    "column": 0,
+    "token": "1 AAA # <s> 1 AA # <s> 1 A # <s> 1 c ##",
+    "token_index": 54,
+    "confidence": 0.6216
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 21,
+    "column": 1,
+    "token": "16 f # LL",
+    "token_index": 188,
+    "confidence": 0.5616
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 24,
+    "column": 1,
+    "token": "16 f # JJ",
+    "token_index": 213,
+    "confidence": 0.577
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 53,
+    "column": 1,
+    "token": "16 e ## < LL",
+    "token_index": 479,
+    "confidence": 0.4546
+  }
+]

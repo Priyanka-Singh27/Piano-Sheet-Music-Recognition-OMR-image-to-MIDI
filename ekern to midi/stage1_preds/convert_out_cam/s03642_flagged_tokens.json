@@ -1,0 +1,32 @@
+[
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 3.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 23,
+    "column": 1,
+    "token": "8 f L",
+    "token_index": 150,
+    "confidence": 0.6993
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 26,
+    "column": 0,
+    "token": "*clefG2",
+    "token_index": 171,
+    "confidence": 0.6696
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 66,
+    "column": 0,
+    "token": "8 EE - L",
+    "token_index": 454,
+    "confidence": 0.6259
+  }
+]

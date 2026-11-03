@@ -1,0 +1,247 @@
+[
+  {
+    "measure_number": 1,
+    "expected_quarterLength": 3.0,
+    "actual_quarterLength": 3.375,
+    "issue": "duration_mismatch"
+  },
+  {
+    "note": "F#3",
+    "offset": 5.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D#4",
+    "offset": 5.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#4",
+    "offset": 5.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G#3",
+    "offset": 7.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G#4",
+    "offset": 7.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D#4",
+    "offset": 9.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#4",
+    "offset": 11.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G#3",
+    "offset": 11.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#4",
+    "offset": 11.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G#4",
+    "offset": 11.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#4",
+    "offset": 12.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#3",
+    "offset": 13.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D#4",
+    "offset": 13.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#4",
+    "offset": 13.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#3",
+    "offset": 13.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D#4",
+    "offset": 13.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#4",
+    "offset": 13.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A#3",
+    "offset": 0.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#4",
+    "offset": 0.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A#2",
+    "offset": 0.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#3",
+    "offset": 0.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A#3",
+    "offset": 1.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#4",
+    "offset": 1.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A#2",
+    "offset": 1.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#3",
+    "offset": 1.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#3",
+    "offset": 2.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#3",
+    "offset": 2.875,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#3",
+    "offset": 3.125,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#2",
+    "offset": 9.375,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A#1",
+    "offset": 11.875,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A#2",
+    "offset": 11.875,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A#1",
+    "offset": 12.375,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A#2",
+    "offset": 12.375,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A#1",
+    "offset": 13.625,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A#2",
+    "offset": 13.625,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 15,
+    "column": 1,
+    "token": "16 eee JJ ]",
+    "token_index": 103,
+    "confidence": 0.6729
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 23,
+    "column": 0,
+    "token": "32 G LLL",
+    "token_index": 157,
+    "confidence": 0.5477
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 25,
+    "column": 1,
+    "token": ".",
+    "token_index": 179,
+    "confidence": 0.6391
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 31,
+    "column": 1,
+    "token": "16 eee LL [",
+    "token_index": 218,
+    "confidence": 0.695
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 33,
+    "column": 1,
+    "token": "16 eee ]",
+    "token_index": 234,
+    "confidence": 0.5224
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 48,
+    "column": 1,
+    "token": "8 A <s> 8 c <s> 8 e <s> 8 a",
+    "token_index": 387,
+    "confidence": 0.4983
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 54,
+    "column": 1,
+    "token": "8 G # <s> 8 c # <s> 8 e <s> 8 g # J",
+    "token_index": 495,
+    "confidence": 0.5773
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 63,
+    "column": 0,
+    "token": "8 CC <s> 8 C J",
+    "token_index": 619,
+    "confidence": 0.5907
+  }
+]

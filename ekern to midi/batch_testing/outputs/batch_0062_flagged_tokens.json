@@ -1,0 +1,12 @@
+[
+  {
+    "note": "F#5",
+    "offset": 6.666666666666667,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#5",
+    "offset": 13.0,
+    "issue": "accidental_outside_key_signature"
+  }
+]

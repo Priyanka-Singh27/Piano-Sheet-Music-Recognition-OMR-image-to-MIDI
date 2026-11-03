@@ -1,0 +1,13 @@
+[
+  {
+    "issue": "low_confidence_token",
+    "line": 11,
+    "column": 1,
+    "token": "2 ff #",
+    "token_index": 71,
+    "confidence": 0.5762
+  },
+  {
+    "issue": "malformed_repeats_stripped_for_midi"
+  }
+]

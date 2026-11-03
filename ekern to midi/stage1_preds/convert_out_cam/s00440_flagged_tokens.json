@@ -1,0 +1,22 @@
+[
+  {
+    "note": "E#5",
+    "offset": 3.6666666666666665,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "E#4",
+    "offset": 4.666666666666667,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "E#4",
+    "offset": 5.333333333333333,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "E#5",
+    "offset": 14.333333333333334,
+    "issue": "accidental_outside_key_signature"
+  }
+]

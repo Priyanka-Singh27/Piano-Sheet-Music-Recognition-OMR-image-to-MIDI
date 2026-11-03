@@ -1,0 +1,122 @@
+[
+  {
+    "note": "C-5",
+    "offset": 8.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-6",
+    "offset": 8.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-5",
+    "offset": 9.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-6",
+    "offset": 9.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-5",
+    "offset": 10.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-6",
+    "offset": 10.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-5",
+    "offset": 11.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-6",
+    "offset": 11.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-5",
+    "offset": 12.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-6",
+    "offset": 12.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-5",
+    "offset": 13.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-6",
+    "offset": 13.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-5",
+    "offset": 14.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-6",
+    "offset": 14.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-5",
+    "offset": 15.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-6",
+    "offset": 15.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-5",
+    "offset": 16.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-6",
+    "offset": 16.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-5",
+    "offset": 17.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-6",
+    "offset": 17.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-5",
+    "offset": 18.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-6",
+    "offset": 18.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-5",
+    "offset": 19.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-6",
+    "offset": 19.5,
+    "issue": "accidental_outside_key_signature"
+  }
+]

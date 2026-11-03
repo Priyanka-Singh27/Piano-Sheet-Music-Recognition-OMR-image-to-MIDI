@@ -1,0 +1,31 @@
+[
+  {
+    "note": "F-4",
+    "offset": 6.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 1,
+    "column": 0,
+    "token": "*^",
+    "token_index": 4,
+    "confidence": 0.6091
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 7,
+    "column": 0,
+    "token": "4 D -",
+    "token_index": 50,
+    "confidence": 0.6685
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 14,
+    "column": 0,
+    "token": "=",
+    "token_index": 130,
+    "confidence": 0.527
+  }
+]

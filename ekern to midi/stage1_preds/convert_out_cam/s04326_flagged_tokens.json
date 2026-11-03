@@ -1,0 +1,30 @@
+[
+  {
+    "measure_number": 1,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 2.0,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 1,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 2.0,
+    "issue": "duration_mismatch"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 36,
+    "column": 0,
+    "token": "2 r",
+    "token_index": 285,
+    "confidence": 0.6274
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 41,
+    "column": 0,
+    "token": "*v",
+    "token_index": 330,
+    "confidence": 0.5389
+  }
+]

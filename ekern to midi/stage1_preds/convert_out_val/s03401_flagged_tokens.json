@@ -1,0 +1,32 @@
+[
+  {
+    "note": "G-4",
+    "offset": 2.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G-5",
+    "offset": 4.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A-4",
+    "offset": 8.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G-4",
+    "offset": 10.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#4",
+    "offset": 23.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#5",
+    "offset": 23.5,
+    "issue": "accidental_outside_key_signature"
+  }
+]

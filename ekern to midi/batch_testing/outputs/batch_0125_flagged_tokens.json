@@ -1,0 +1,172 @@
+[
+  {
+    "note": "C##6",
+    "offset": 1.3333333333333333,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G##6",
+    "offset": 8.333333333333334,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G##6",
+    "offset": 8.833333333333334,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D##6",
+    "offset": 9.666666666666666,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##6",
+    "offset": 10.625,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D##6",
+    "offset": 11.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G##5",
+    "offset": 11.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##5",
+    "offset": 13.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##5",
+    "offset": 14.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##5",
+    "offset": 14.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##6",
+    "offset": 15.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##5",
+    "offset": 16.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##5",
+    "offset": 17.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##5",
+    "offset": 17.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##4",
+    "offset": 6.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##2",
+    "offset": 6.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##3",
+    "offset": 6.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##4",
+    "offset": 7.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##4",
+    "offset": 7.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##2",
+    "offset": 8.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##3",
+    "offset": 8.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##4",
+    "offset": 8.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##4",
+    "offset": 9.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##2",
+    "offset": 9.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##3",
+    "offset": 9.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##4",
+    "offset": 10.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##4",
+    "offset": 10.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##2",
+    "offset": 11.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##3",
+    "offset": 11.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##4",
+    "offset": 11.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##4",
+    "offset": 13.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##4",
+    "offset": 14.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##4",
+    "offset": 16.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##4",
+    "offset": 17.5,
+    "issue": "accidental_outside_key_signature"
+  }
+]

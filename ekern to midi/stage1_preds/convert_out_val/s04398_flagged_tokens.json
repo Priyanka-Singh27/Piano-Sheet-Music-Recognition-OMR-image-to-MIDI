@@ -1,0 +1,57 @@
+[
+  {
+    "note": "G#4",
+    "offset": 1.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G#4",
+    "offset": 3.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G#4",
+    "offset": 4.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G#4",
+    "offset": 9.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G#4",
+    "offset": 10.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G#4",
+    "offset": 15.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G#4",
+    "offset": 18.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G#4",
+    "offset": 23.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D#3",
+    "offset": 7.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G#3",
+    "offset": 10.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G#3",
+    "offset": 18.0,
+    "issue": "accidental_outside_key_signature"
+  }
+]

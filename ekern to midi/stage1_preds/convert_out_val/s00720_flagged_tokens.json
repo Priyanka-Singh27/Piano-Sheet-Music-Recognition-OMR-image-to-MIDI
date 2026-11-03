@@ -1,0 +1,26 @@
+[
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 3.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "note": "F#5",
+    "offset": 3.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#3",
+    "offset": 1.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 36,
+    "column": 1,
+    "token": ".",
+    "token_index": 201,
+    "confidence": 0.5197
+  }
+]

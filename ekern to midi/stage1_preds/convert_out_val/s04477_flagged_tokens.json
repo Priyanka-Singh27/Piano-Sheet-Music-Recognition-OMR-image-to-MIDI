@@ -1,0 +1,25 @@
+[
+  {
+    "note": "B-4",
+    "offset": 12.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-3",
+    "offset": 1.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-3",
+    "offset": 2.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 14,
+    "column": 0,
+    "token": "=",
+    "token_index": 97,
+    "confidence": 0.6442
+  }
+]

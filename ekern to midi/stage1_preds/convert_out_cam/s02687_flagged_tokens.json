@@ -1,0 +1,62 @@
+[
+  {
+    "note": "F#2",
+    "offset": 0.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#2",
+    "offset": 1.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#2",
+    "offset": 2.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#2",
+    "offset": 3.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#2",
+    "offset": 4.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#2",
+    "offset": 5.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#1",
+    "offset": 0.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#1",
+    "offset": 1.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#1",
+    "offset": 2.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#1",
+    "offset": 3.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#1",
+    "offset": 4.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#1",
+    "offset": 5.75,
+    "issue": "accidental_outside_key_signature"
+  }
+]

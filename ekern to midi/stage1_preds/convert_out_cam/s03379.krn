@@ -1,0 +1,36 @@
+**kern	**kern
+*clefF4	*clefG2
+*k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]
+*M3/8	*M3/8
+=-	=-
+8a#L	16cc##LL
+.	16dd#
+8A#	16ee#
+.	16ff#
+8a#J	16gg#
+.	16aa#JJ
+=	=
+8g#L	16bbLL
+.	16gg#
+8f#	16aa#
+.	16ff#
+8e#J	16gg#
+.	16ee#JJ
+=	=
+8d#L	16aa#LL
+.	16gg#
+8e#	16ff#
+.	16ee#
+8f#J	16dd#
+.	16cc#JJ
+=	=
+*	*^
+8G# 8f#L	8gg#	16b#LL
+.	.	16cc#
+8G# 8f#	8r	16b#
+.	.	16cc#
+8G# 8f#J	8r	16b#
+.	.	16cc#JJ
+*	*v	*v
+=	=
+*-	*-

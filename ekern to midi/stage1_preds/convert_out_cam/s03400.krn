@@ -1,0 +1,35 @@
+**kern	**kern
+*clefF4	*clefG2
+*k[b-]	*k[b-]
+*M3/4	*M3/4
+=-	=-
+2.AAA 2.FF 2.AA	2.ff 2.ccc 2.fff
+=	=
+2.r	12fffL
+.	12eee
+.	12gggJ
+.	12fffL
+.	12eee
+.	12dddJ
+.	20cccLL
+.	20bb-
+.	20aa
+.	20gg
+.	20ffJJ
+*clefG2	*
+=	=
+2.d 2.f 2.b	2.ff 2.bb 2.fff
+=	=
+2.r	12fffL
+.	12eee
+.	12gggJ
+.	12fffL
+.	12eee
+.	12dddJ
+.	20cccLL
+.	20bb
+.	20aa
+.	20gg
+.	20ffJJ
+=	=
+*-	*-

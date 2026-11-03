@@ -1,0 +1,47 @@
+[
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 3.0,
+    "actual_quarterLength": 2.0,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 3.0,
+    "actual_quarterLength": 2.0,
+    "issue": "duration_mismatch"
+  },
+  {
+    "note": "B-3",
+    "offset": 1.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-2",
+    "offset": 0.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-2",
+    "offset": 2.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-2",
+    "offset": 3.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D#3",
+    "offset": 9.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D#2",
+    "offset": 9.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "malformed_repeats_stripped_for_midi"
+  }
+]

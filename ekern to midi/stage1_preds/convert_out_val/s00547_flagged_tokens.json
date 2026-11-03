@@ -1,0 +1,216 @@
+[
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 2.0,
+    "actual_quarterLength": 2.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 2.0,
+    "actual_quarterLength": 2.9999999999999996,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 1,
+    "expected_quarterLength": 2.0,
+    "actual_quarterLength": 2.166666666666667,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 2.0,
+    "actual_quarterLength": 2.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 2.0,
+    "actual_quarterLength": 3.0,
+    "issue": "duration_mismatch"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 5,
+    "column": 0,
+    "token": "8 ee L",
+    "token_index": 21,
+    "confidence": 0.6425
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 7,
+    "column": 0,
+    "token": "12 B L",
+    "token_index": 37,
+    "confidence": 0.5167
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 12,
+    "column": 0,
+    "token": "8 r",
+    "token_index": 73,
+    "confidence": 0.2193
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 15,
+    "column": 0,
+    "token": "8 r",
+    "token_index": 93,
+    "confidence": 0.3731
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 16,
+    "column": 0,
+    "token": "8 e L",
+    "token_index": 101,
+    "confidence": 0.238
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 19,
+    "column": 0,
+    "token": "8 r",
+    "token_index": 121,
+    "confidence": 0.6292
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 21,
+    "column": 0,
+    "token": "8 c # L",
+    "token_index": 133,
+    "confidence": 0.2049
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 21,
+    "column": 1,
+    "token": "24 ee LL",
+    "token_index": 137,
+    "confidence": 0.6527
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 24,
+    "column": 0,
+    "token": "8 r",
+    "token_index": 155,
+    "confidence": 0.4932
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 25,
+    "column": 0,
+    "token": "8 d # L",
+    "token_index": 162,
+    "confidence": 0.5206
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 28,
+    "column": 0,
+    "token": "4 B",
+    "token_index": 184,
+    "confidence": 0.3395
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 28,
+    "column": 1,
+    "token": "4 gg #",
+    "token_index": 186,
+    "confidence": 0.4546
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 29,
+    "column": 0,
+    "token": "8 r",
+    "token_index": 190,
+    "confidence": 0.3555
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 29,
+    "column": 1,
+    "token": "8 ff # L",
+    "token_index": 194,
+    "confidence": 0.4493
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 31,
+    "column": 1,
+    "token": "bb q",
+    "token_index": 206,
+    "confidence": 0.6321
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 32,
+    "column": 0,
+    "token": "8 B L",
+    "token_index": 211,
+    "confidence": 0.4292
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 33,
+    "column": 0,
+    "token": "8 A J",
+    "token_index": 217,
+    "confidence": 0.5397
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 35,
+    "column": 0,
+    "token": "8 G # L",
+    "token_index": 230,
+    "confidence": 0.4499
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 36,
+    "column": 0,
+    "token": "8 B J",
+    "token_index": 239,
+    "confidence": 0.4108
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 37,
+    "column": 0,
+    "token": "8 r",
+    "token_index": 248,
+    "confidence": 0.5697
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 40,
+    "column": 0,
+    "token": "8 r",
+    "token_index": 267,
+    "confidence": 0.6183
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 41,
+    "column": 0,
+    "token": "8 B <s> 8 d #",
+    "token_index": 275,
+    "confidence": 0.3442
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 44,
+    "column": 0,
+    "token": "8 r",
+    "token_index": 298,
+    "confidence": 0.6067
+  }
+]

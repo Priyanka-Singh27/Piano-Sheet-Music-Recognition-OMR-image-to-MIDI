@@ -1,0 +1,37 @@
+[
+  {
+    "note": "B#4",
+    "offset": 0.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B#4",
+    "offset": 3.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B#4",
+    "offset": 6.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B#2",
+    "offset": 2.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B#3",
+    "offset": 2.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B#1",
+    "offset": 5.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B#2",
+    "offset": 5.25,
+    "issue": "accidental_outside_key_signature"
+  }
+]

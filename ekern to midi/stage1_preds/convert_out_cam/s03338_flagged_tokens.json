@@ -1,0 +1,57 @@
+[
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 4.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "note": "C##5",
+    "offset": 2.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B#4",
+    "offset": 4.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G##4",
+    "offset": 8.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F##4",
+    "offset": 2.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F##4",
+    "offset": 2.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 1,
+    "column": 0,
+    "token": "*clefG2",
+    "token_index": 4,
+    "confidence": 0.6427
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 31,
+    "column": 2,
+    "token": "4 ccc #",
+    "token_index": 350,
+    "confidence": 0.6756
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 86,
+    "column": 1,
+    "token": "16 aa #",
+    "token_index": 814,
+    "confidence": 0.6792
+  }
+]

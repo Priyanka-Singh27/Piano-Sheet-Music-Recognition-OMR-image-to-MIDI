@@ -1,0 +1,132 @@
+[
+  {
+    "measure_number": 1,
+    "expected_quarterLength": 3.0,
+    "actual_quarterLength": 2.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 3.0,
+    "actual_quarterLength": 3.375,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 3.0,
+    "actual_quarterLength": 2.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 3.0,
+    "actual_quarterLength": 2.625,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 1,
+    "expected_quarterLength": 3.0,
+    "actual_quarterLength": 2.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 3.0,
+    "actual_quarterLength": 2.0,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 3.0,
+    "actual_quarterLength": 2.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 22,
+    "column": 0,
+    "token": "32 GGG - LLL",
+    "token_index": 136,
+    "confidence": 0.4454
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 40,
+    "column": 1,
+    "token": "32 d - LLL",
+    "token_index": 271,
+    "confidence": 0.6849
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 50,
+    "column": 1,
+    "token": "16 ff LL",
+    "token_index": 343,
+    "confidence": 0.618
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 81,
+    "column": 0,
+    "token": "8 GGG - <s> 8 DD - <s> 8 FF",
+    "token_index": 548,
+    "confidence": 0.3853
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 81,
+    "column": 1,
+    "token": "32 FF LLL",
+    "token_index": 559,
+    "confidence": 0.4559
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 98,
+    "column": 1,
+    "token": "*clefG2",
+    "token_index": 666,
+    "confidence": 0.6734
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 104,
+    "column": 0,
+    "token": "8 r",
+    "token_index": 698,
+    "confidence": 0.5181
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 112,
+    "column": 1,
+    "token": "32 dd - JJJ",
+    "token_index": 754,
+    "confidence": 0.6999
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 113,
+    "column": 1,
+    "token": "32 gg - LLL",
+    "token_index": 762,
+    "confidence": 0.3471
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 122,
+    "column": 1,
+    "token": "32 g - LLL",
+    "token_index": 819,
+    "confidence": 0.5439
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 126,
+    "column": 0,
+    "token": "=",
+    "token_index": 842,
+    "confidence": 0.4643
+  }
+]

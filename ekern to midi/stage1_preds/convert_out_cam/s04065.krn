@@ -1,0 +1,85 @@
+**kern	**kern
+*clefF4	*clefG2
+*k[]	*k[]
+*M4/4	*M4/4
+=-	=-
+4F 4A 4c	4a
+4DDD[ 4FFF[ 4BBB-[ 4DD[<	4BB-<[> 4D<[> 4F[ 4B-[
+4DDD] 4FFF] 4BBB-] 4DD]	16BB-<] 16D] 16F] 16B-LL]
+.	16F
+.	16G
+.	16AJJ
+4r	16B-LL
+.	16c
+.	16d
+.	16cJJ
+=	=
+4r	16B-LL
+.	16F
+.	16G
+.	16AJJ
+4DD 4FF 4BB-	16B-LL
+.	16c
+.	16d
+.	16cJJ
+4r	16B-LL
+.	16F
+.	16G
+.	16AJJ
+4DD 4FF 4BB-	16B-LL
+.	16c
+.	16d
+.	16cJJ
+=	=
+8r	16B-LL
+.	16F
+8DD 8FF 8BB-	16G
+.	16AJJ
+8r	16B-LL
+.	16c
+8DD 8FF 8BB-	16d
+.	16e-JJ
+8r	16fLL
+.	16g
+8DD 8FF 8BB-	16a
+.	16b-JJ
+8r	16ccLL
+.	16dd
+8DD 8FF 8BB-	16ee-
+.	16eeJJ
+=	=
+16DDLL	2f 2ff
+16BB-	.
+16FF	.
+16BB-JJ	.
+16DDLL	.
+16BB-	.
+16FF	.
+16BB-JJ	.
+16DD#LL	2A 2a
+16C	.
+16FF#	.
+16CJJ	.
+16DD#LL	.
+16C	.
+16FF#	.
+16CJJ	.
+=	=
+16EELL	2c 2cc
+16C	.
+16AA	.
+16CJJ	.
+16EELL	.
+16C	.
+16AA	.
+16CJJ	.
+16EEELL	2GG#< 2D 2G#<
+16EE	.
+16DD#	.
+16EEJJ	.
+16DD#LL	.
+16EE	.
+16DD#	.
+16EEJJ	.
+=	=
+*-	*-

@@ -1,0 +1,20 @@
+[
+  {
+    "note": "G##4",
+    "offset": 4.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F##3",
+    "offset": 6.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 41,
+    "column": 0,
+    "token": "*",
+    "token_index": 312,
+    "confidence": 0.6721
+  }
+]

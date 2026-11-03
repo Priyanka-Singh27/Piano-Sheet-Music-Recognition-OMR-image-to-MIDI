@@ -1,0 +1,95 @@
+**kern	**kern
+*	*^
+*clefF4	*clefF4	*clefF4
+*k[b-]	*k[b-]	*k[b-]
+*M4/4	*M4/4	*M4/4
+*met(C)	*met(C)	*met(C)
+=-	=-	=-
+2DD 2D	16r	16r
+.	8.f	16fLL
+.	.	16c#
+.	.	16dJJ
+.	16r	4F
+.	16ALL	.
+.	16d	.
+.	16fJJ	.
+2E	16r	16r
+.	8.g	16gLL
+.	.	16d
+.	.	16c#JJ
+.	16r	4e
+.	16GLL	.
+.	16B-	.
+.	16c#JJ	.
+=	=	=
+*^	*	*
+2F#	1D	8.a	16r
+.	.	.	16aLL
+.	.	.	16d
+.	.	.	16cJJ
+.	.	16r	4e-
+.	.	16ALL	.
+.	.	16c	.
+.	.	16e-JJ	.
+2G	.	16r	16r
+.	.	8.D	16DLL
+.	.	.	16AA#
+.	.	.	16BB-JJ
+.	.	16r	4B-
+.	.	16FFLL	.
+.	.	16BB-	.
+.	.	16DJJ	.
+=	=	=	=
+2A	1D	16r	16r
+.	.	8.E#	16E#LL
+.	.	.	16GG
+.	.	.	16BB-JJ
+.	.	16r	4c#
+.	.	16GGLL	.
+.	.	16BB-	.
+.	.	16E#JJ	.
+2B	.	16r	16r
+.	.	8.F#	16FLL
+.	.	.	16AA
+.	.	.	16BB#JJ
+.	.	16r	4d
+.	.	16AALL	.
+.	.	16BB#	.
+.	.	16F#JJ	.
+=	=	=	=
+2c#	2D	16r	16r
+.	.	8.G	16GLL
+.	.	.	16BB-
+.	.	.	16DJJ
+.	.	16r	4GG
+.	.	16BB-LL	.
+.	.	16C	.
+.	.	16GJJ	.
+2d	4D	16r	16r
+.	.	8.A	16ALL
+.	.	.	16C
+.	.	.	16FJJ
+.	4G#	16r	4AA
+.	.	16DLL	.
+.	.	16F	.
+.	.	16AJJ	.
+=	=	=	=
+4c#	2D	16r	16r
+.	.	8.G	16GLL
+.	.	.	16BB-
+.	.	.	16E#JJ
+.	.	16r	4GG
+.	.	16BB-LL	.
+.	.	16C	.
+.	.	16GJJ	.
+2d	4D	16r	16r
+.	.	16ALL	.
+.	.	16C	.
+.	.	16FJJ	.
+.	4G#	16r	4AA
+.	.	16DLL	.
+.	.	16F	.
+.	.	16E#JJ	.
+=	=	=	=
+*v	*v	*	*
+*-	*-	*-

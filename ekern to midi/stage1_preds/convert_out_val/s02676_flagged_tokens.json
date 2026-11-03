@@ -1,0 +1,20 @@
+[
+  {
+    "note": "G-4",
+    "offset": 9.666666666666666,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G-4",
+    "offset": 10.333333333333334,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 1,
+    "column": 0,
+    "token": "*^",
+    "token_index": 4,
+    "confidence": 0.6763
+  }
+]

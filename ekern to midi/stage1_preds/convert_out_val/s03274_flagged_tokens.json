@@ -1,0 +1,41 @@
+[
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 2.0,
+    "actual_quarterLength": 1.75,
+    "issue": "duration_mismatch"
+  },
+  {
+    "note": "F#4",
+    "offset": 3.375,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G#2",
+    "offset": 7.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G#2",
+    "offset": 7.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A-3",
+    "offset": 11.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A-3",
+    "offset": 11.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 34,
+    "column": 1,
+    "token": "16 E LL",
+    "token_index": 276,
+    "confidence": 0.5616
+  }
+]

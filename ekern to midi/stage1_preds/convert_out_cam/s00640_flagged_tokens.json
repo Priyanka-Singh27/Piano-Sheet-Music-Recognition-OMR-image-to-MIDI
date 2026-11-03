@@ -1,0 +1,15 @@
+[
+  {
+    "note": "A-5",
+    "offset": 0.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 1,
+    "column": 0,
+    "token": "*clefF4",
+    "token_index": 4,
+    "confidence": 0.5658
+  }
+]

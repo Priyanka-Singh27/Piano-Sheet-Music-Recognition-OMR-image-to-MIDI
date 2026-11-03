@@ -1,0 +1,20 @@
+[
+  {
+    "note": "C#4",
+    "offset": 19.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#5",
+    "offset": 19.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 13,
+    "column": 1,
+    "token": "4 ff",
+    "token_index": 99,
+    "confidence": 0.656
+  }
+]

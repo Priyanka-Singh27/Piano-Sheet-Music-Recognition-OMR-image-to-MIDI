@@ -1,0 +1,112 @@
+**kern	**kern
+*clefF4	*clefG2
+*k[b-e-a-d-g-]	*k[b-e-a-d-g-]
+*M12/16	*M12/16
+=-	=-
+16BB- 16D- 16F 16B-LL	8.dd-[
+16BB- 16D- 16F 16B-	.
+16BB- 16D- 16F 16B-JJ	.
+16BB- 16D- 16G-LL	16dd-LL]
+16BB- 16D- 16G-	16cc
+16BB- 16D- 16G-JJ	32dd-JJk
+.	32r
+16AA- 16D- 16G-LL	8.ee-[
+16AA- 16D- 16G-	.
+16AA- 16D- 16G-JJ	.
+16AA- 16C 16G-LL	16ee-LL]
+16AA- 16C 16G-	16dd
+16AA- 16C 16G-JJ	32ee-JJk
+.	32r
+=	=
+16AA- 16D- 16FLL	8.ff[
+16AA- 16D- 16F	.
+16AA- 16D- 16FJJ	.
+16AA- 16C- 16D- 16FLL	16ffLL]
+16AA- 16C- 16D- 16F	16ee
+16AA- 16C- 16D- 16FJJ	16ffJJ
+16BB- 16D- 16G-LL	16r
+16BB- 16D- 16G-	16ffLL
+16BB- 16D- 16G-JJ	16gg-JJ
+16GG- 16D- 16G-LL	16r
+16GG- 16D- 16G-	16aaLL
+16GG- 16D- 16G-JJ	16bb-JJ
+=	=
+16FF 16D- 16FLL	16r
+16FF 16D- 16F	32bb-LLL
+.	32aa-J
+16FF 16D- 16FJJ	16ddd-JJ[
+16GG- 16D- 16G-LL	16ddd-LL]
+16GG- 16D- 16G-	32cccL
+.	32bb-J
+16GG- 16D- 16G-JJ	16bbb-JJ[
+16AA- 16D- 16FLL	16bbb-LL]
+16AA- 16D- 16F	16aaa-
+16AA- 16D- 16FJJ	16ffJJ
+16BB-- 16E- 16G-LL	16.r
+16BB-- 16E- 16G-	.
+.	32aa-LLL
+16BB-- 16E- 16G- 16B--JJ	32gg-
+.	32cc-JJJ
+=	=
+.	ccq
+16BB-- 16E- 16F 16B--LL	4.ee-
+16BB-- 16E- 16G- 16B--	.
+16AA- 16E- 16G- 16A-JJ	.
+16BB-- 16E- 16G- 16A-LL	.
+16BB-- 16D- 16F 16G-	.
+16AA- 16C- 16E- 16G-JJ	16cc-[
+16AA- 16D- 16FLL	8.dd-L]
+16D- 16F 16A-	.
+16D- 16F 16A-JJ	16b-Jk
+16D- 16F 16A-LL	8aa-L
+16D- 16F 16A-	.
+16D- 16F 16A-JJ	16ffJk
+=	=
+.	ffq
+16C- 16D 16F 16A-LL	8ffL[
+16C- 16D 16F 16A-	.
+16C- 16D 16F 16A-JJ	16ffJk]
+16BB-- 16D 16F 16A-LL	8r
+16D 16F 16A-	.
+16F 16A-	16cc- 16cc- 16dd- 16ee-	8cc-LL
+16cc- 16dd- 16ee-	8cc-
+16dd-	.
+16dd- 16cc-
+16cc- 16cc- 16dd- 16dd- 16dd- 16dd- 16dd- 16ee-JJ	8cc-JJ	8cc-LL
+16cc- 16dd- 16dd- 16cc- 16cc- 16dd- 16ee- 16ee- 16dd- 16ee-JJ	8cc-LL
+16dd- 16ffJJ	8cc-
+16dd-
+16dd- 16dd- 16dd- 16ee- 16ee- 16ee- 16dd-JJ	8cc-LL
+16cc- 16dd- 16ee-	8cc- 16ee-JJ	16ee-LL
+16dd-LL
+16dd- 16dd- 16dd-	16cc- 16ee-JJ	16ee-LL
+16dd- 16dd-LL
+16dd-LL
+16cc- 16cc- 16ee-JJ	16ee-JJ	16cc-LL
+16cc-JJ	16cc-LL
+16cc-LL
+16dd- 16dd- 16dd- 16ee- 16cc- 16cc- 16dd- 16cc- 16cc-LL	8cc-LL
+.
+16cc- 16cc- 16cc- 16cc-	8cc-	8cc- 16cc- 16dd- 16ee- 16dd- 16dd- 16ee- 16dd- 16ff	8cc- 16dd- 16dd- 16ff	8cc- 16dd- 16dd- 16ee- 16ff-	8cc- 16ff-	8cc-	8cc-JJ
+16ff-
+16ee-JJ	16dd-JJ	8cc-LL
+16dd-LL
+16cc-
+16cc-JJ
+16cc-LL
+16cc-LL
+16cc- 16cc-LL
+16cc- 16cc- 16cc-	8cc- 16cc- 16cc- 16dd- 16dd-LL
+16dd- 16b-	8cc-	8cc-LL
+16dd- 16dd-	8cc-	8cc-	8cc-	8cc-
+16cc-
+16cc-
+16cc- 16dd- 16dd- 16dd- 16ee- 16dd- 16cc- 16cc-
+16cc-
+16dd- 16dd- 16dd- 16dd- 16ee- 16dd- 16dd-	8cc- 16dd- 16cc-	8cc- 16dd- 16dd- 16dd- 16cc- 16ee- 16ee- 16ee- 16dd- 16ff	8cc- 16dd- 16ff	8cc- 16dd- 16dd- 16dd- 16ee- 16ee- 16ff	8cc- 16ff	8cc- 16dd-	8.
+16dd-
+16dd- 16dd- 16ee-JJ	8.
+16ff	8.
+16ff	8.
+16ff	8cc- 16ff	8.
+16dd

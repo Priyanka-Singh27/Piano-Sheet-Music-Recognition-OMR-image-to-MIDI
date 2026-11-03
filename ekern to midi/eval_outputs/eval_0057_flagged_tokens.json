@@ -1,0 +1,22 @@
+[
+  {
+    "note": "C#5",
+    "offset": 4.166666666666667,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#5",
+    "offset": 6.166666666666667,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#3",
+    "offset": 4.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#3",
+    "offset": 6.5,
+    "issue": "accidental_outside_key_signature"
+  }
+]

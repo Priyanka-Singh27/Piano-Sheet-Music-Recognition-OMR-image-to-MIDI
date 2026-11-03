@@ -1,0 +1,106 @@
+[
+  {
+    "note": "A#4",
+    "offset": 5.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "E#4",
+    "offset": 10.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F##4",
+    "offset": 11.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A#4",
+    "offset": 11.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B#4",
+    "offset": 15.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A#3",
+    "offset": 5.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F##3",
+    "offset": 5.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A#3",
+    "offset": 5.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 57,
+    "column": 0,
+    "token": "*",
+    "token_index": 400,
+    "confidence": 0.5904
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 59,
+    "column": 2,
+    "token": "16 b",
+    "token_index": 421,
+    "confidence": 0.4441
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 70,
+    "column": 0,
+    "token": "=",
+    "token_index": 524,
+    "confidence": 0.6992
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 71,
+    "column": 0,
+    "token": "16 AA LL",
+    "token_index": 531,
+    "confidence": 0.486
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 72,
+    "column": 0,
+    "token": "16 A",
+    "token_index": 543,
+    "confidence": 0.5861
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 73,
+    "column": 0,
+    "token": "16 E",
+    "token_index": 552,
+    "confidence": 0.5406
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 74,
+    "column": 0,
+    "token": "16 F # JJ",
+    "token_index": 560,
+    "confidence": 0.6138
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 83,
+    "column": 0,
+    "token": "*",
+    "token_index": 651,
+    "confidence": 0.5698
+  }
+]

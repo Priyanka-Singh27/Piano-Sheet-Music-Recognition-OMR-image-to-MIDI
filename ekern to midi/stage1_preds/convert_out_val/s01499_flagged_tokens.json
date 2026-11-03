@@ -1,0 +1,54 @@
+[
+  {
+    "note": "E#5",
+    "offset": 15.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#4",
+    "offset": 17.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G#2",
+    "offset": 5.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#3",
+    "offset": 16.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 1,
+    "column": 0,
+    "token": "*",
+    "token_index": 4,
+    "confidence": 0.6349
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 8,
+    "column": 1,
+    "token": "16 C",
+    "token_index": 67,
+    "confidence": 0.4385
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 9,
+    "column": 0,
+    "token": "16 BB",
+    "token_index": 74,
+    "confidence": 0.5713
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 46,
+    "column": 0,
+    "token": "=",
+    "token_index": 429,
+    "confidence": 0.5885
+  }
+]

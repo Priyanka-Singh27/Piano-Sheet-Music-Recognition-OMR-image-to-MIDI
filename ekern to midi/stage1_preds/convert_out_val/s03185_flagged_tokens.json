@@ -1,0 +1,10 @@
+[
+  {
+    "issue": "low_confidence_token",
+    "line": 50,
+    "column": 0,
+    "token": "16 F # LL",
+    "token_index": 380,
+    "confidence": 0.5971
+  }
+]

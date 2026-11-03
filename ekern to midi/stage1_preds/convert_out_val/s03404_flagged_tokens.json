@@ -1,0 +1,28 @@
+[
+  {
+    "note": "A#5",
+    "offset": 1.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A#4",
+    "offset": 7.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A#5",
+    "offset": 14.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 49,
+    "column": 0,
+    "token": "=!|:",
+    "token_index": 359,
+    "confidence": 0.6793
+  },
+  {
+    "issue": "malformed_repeats_stripped_for_midi"
+  }
+]

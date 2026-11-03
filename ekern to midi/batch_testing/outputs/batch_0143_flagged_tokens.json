@@ -1,0 +1,82 @@
+[
+  {
+    "note": "F-5",
+    "offset": 4.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F-5",
+    "offset": 6.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F-6",
+    "offset": 6.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F-5",
+    "offset": 6.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F-6",
+    "offset": 6.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F-5",
+    "offset": 7.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F-6",
+    "offset": 7.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G-3",
+    "offset": 1.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G-3",
+    "offset": 3.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F-4",
+    "offset": 4.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F-4",
+    "offset": 5.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F-4",
+    "offset": 5.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F-4",
+    "offset": 6.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F-4",
+    "offset": 6.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F-4",
+    "offset": 7.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F-4",
+    "offset": 7.75,
+    "issue": "accidental_outside_key_signature"
+  }
+]

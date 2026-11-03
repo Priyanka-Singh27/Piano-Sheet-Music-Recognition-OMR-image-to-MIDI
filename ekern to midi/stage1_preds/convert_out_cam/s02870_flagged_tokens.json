@@ -1,0 +1,42 @@
+[
+  {
+    "issue": "low_confidence_token",
+    "line": 1,
+    "column": 0,
+    "token": "*^",
+    "token_index": 4,
+    "confidence": 0.6402
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 47,
+    "column": 2,
+    "token": "32 e LLL",
+    "token_index": 421,
+    "confidence": 0.6546
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 67,
+    "column": 0,
+    "token": "8 r",
+    "token_index": 607,
+    "confidence": 0.525
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 75,
+    "column": 0,
+    "token": "8 AA <s> 8 C <s> 8 E - L",
+    "token_index": 678,
+    "confidence": 0.4943
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 85,
+    "column": 1,
+    "token": "4 r",
+    "token_index": 770,
+    "confidence": 0.5955
+  }
+]

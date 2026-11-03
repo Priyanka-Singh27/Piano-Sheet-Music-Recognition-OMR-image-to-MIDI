@@ -1,0 +1,34 @@
+[
+  {
+    "measure_number": 1,
+    "expected_quarterLength": 2.0,
+    "actual_quarterLength": 1.0,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 1,
+    "expected_quarterLength": 2.0,
+    "actual_quarterLength": 1.0,
+    "issue": "duration_mismatch"
+  },
+  {
+    "note": "C#5",
+    "offset": 0.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G#4",
+    "offset": 3.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#4",
+    "offset": 4.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#4",
+    "offset": 5.5,
+    "issue": "accidental_outside_key_signature"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "note": "D-4",
+    "offset": 0.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G-4",
+    "offset": 1.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G-4",
+    "offset": 1.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D-4",
+    "offset": 2.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D-4",
+    "offset": 3.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G-2",
+    "offset": 0.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G-2",
+    "offset": 3.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 31,
+    "column": 0,
+    "token": "*",
+    "token_index": 266,
+    "confidence": 0.6893
+  }
+]

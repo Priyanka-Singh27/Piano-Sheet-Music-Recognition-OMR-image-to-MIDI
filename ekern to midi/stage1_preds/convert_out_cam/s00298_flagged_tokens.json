@@ -1,0 +1,73 @@
+[
+  {
+    "note": "E#5",
+    "offset": 3.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "E#4",
+    "offset": 5.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F##4",
+    "offset": 6.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G##4",
+    "offset": 8.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "E#4",
+    "offset": 8.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G##4",
+    "offset": 9.125,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G##4",
+    "offset": 9.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G##4",
+    "offset": 11.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F##3",
+    "offset": 2.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B#3",
+    "offset": 8.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B#3",
+    "offset": 11.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 48,
+    "column": 1,
+    "token": "8 g ## L ]",
+    "token_index": 332,
+    "confidence": 0.6822
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 49,
+    "column": 0,
+    "token": "8 c # J",
+    "token_index": 342,
+    "confidence": 0.6687
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "note": "B--4",
+    "offset": 3.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 1,
+    "column": 0,
+    "token": "*^",
+    "token_index": 4,
+    "confidence": 0.5594
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 30,
+    "column": 0,
+    "token": "*",
+    "token_index": 262,
+    "confidence": 0.6893
+  }
+]

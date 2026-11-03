@@ -1,0 +1,12 @@
+[
+  {
+    "note": "G-5",
+    "offset": 3.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G-4",
+    "offset": 5.5,
+    "issue": "accidental_outside_key_signature"
+  }
+]

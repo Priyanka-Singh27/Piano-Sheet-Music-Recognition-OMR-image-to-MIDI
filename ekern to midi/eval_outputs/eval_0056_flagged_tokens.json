@@ -1,0 +1,18 @@
+[
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 2.0,
+    "actual_quarterLength": 1.0,
+    "issue": "duration_mismatch"
+  },
+  {
+    "note": "C#5",
+    "offset": 8.166666666666666,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#3",
+    "offset": 8.5,
+    "issue": "accidental_outside_key_signature"
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "note": "B#5",
+    "offset": 7.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B#5",
+    "offset": 14.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B#3",
+    "offset": 12.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B#3",
+    "offset": 12.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B#3",
+    "offset": 13.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B#3",
+    "offset": 13.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B#3",
+    "offset": 14.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B#3",
+    "offset": 14.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B#3",
+    "offset": 15.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 32,
+    "column": 1,
+    "token": "8 aa # L",
+    "token_index": 225,
+    "confidence": 0.5698
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 53,
+    "column": 1,
+    "token": "4 .. fff #",
+    "token_index": 374,
+    "confidence": 0.5544
+  }
+]

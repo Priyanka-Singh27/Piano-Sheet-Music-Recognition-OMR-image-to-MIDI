@@ -1,0 +1,240 @@
+[
+  {
+    "note": "C#5",
+    "offset": 4.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#6",
+    "offset": 4.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D-6",
+    "offset": 4.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-5",
+    "offset": 4.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D-5",
+    "offset": 5.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-5",
+    "offset": 5.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D-6",
+    "offset": 6.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-5",
+    "offset": 6.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A-5",
+    "offset": 6.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-5",
+    "offset": 7.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#6",
+    "offset": 7.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D-5",
+    "offset": 8.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D-5",
+    "offset": 9.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D-6",
+    "offset": 13.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-5",
+    "offset": 13.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D-5",
+    "offset": 14.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-5",
+    "offset": 14.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D-6",
+    "offset": 15.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-5",
+    "offset": 15.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A-5",
+    "offset": 15.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-5",
+    "offset": 16.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#6",
+    "offset": 16.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-3",
+    "offset": 3.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "E-3",
+    "offset": 4.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-3",
+    "offset": 4.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "E-3",
+    "offset": 4.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "E-3",
+    "offset": 4.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-3",
+    "offset": 5.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D-4",
+    "offset": 5.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-3",
+    "offset": 5.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-3",
+    "offset": 6.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "E-3",
+    "offset": 6.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A-3",
+    "offset": 6.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D-4",
+    "offset": 7.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-3",
+    "offset": 7.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "E-3",
+    "offset": 7.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "E-3",
+    "offset": 13.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "E-3",
+    "offset": 13.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-3",
+    "offset": 14.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D-4",
+    "offset": 14.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-3",
+    "offset": 14.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-3",
+    "offset": 15.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "E-3",
+    "offset": 15.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A-3",
+    "offset": 15.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D-4",
+    "offset": 16.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-3",
+    "offset": 16.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "E-3",
+    "offset": 16.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "malformed_repeats_stripped_for_midi"
+  }
+]

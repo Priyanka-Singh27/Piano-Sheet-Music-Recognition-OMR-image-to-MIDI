@@ -1,0 +1,31 @@
+[
+  {
+    "note": "E--4",
+    "offset": 3.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "E--3",
+    "offset": 3.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 34,
+    "column": 0,
+    "token": "*^",
+    "token_index": 344,
+    "confidence": 0.6187
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 35,
+    "column": 1,
+    "token": "8 g - <s> 8 ee -",
+    "token_index": 361,
+    "confidence": 0.6716
+  },
+  {
+    "issue": "malformed_repeats_stripped_for_midi"
+  }
+]

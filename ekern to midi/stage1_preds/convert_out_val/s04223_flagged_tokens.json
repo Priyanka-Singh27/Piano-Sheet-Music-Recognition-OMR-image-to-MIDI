@@ -1,0 +1,36 @@
+[
+  {
+    "note": "G#4",
+    "offset": 4.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A--3",
+    "offset": 1.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 7,
+    "column": 0,
+    "token": "4 r",
+    "token_index": 38,
+    "confidence": 0.5657
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 17,
+    "column": 3,
+    "token": "4 a ]",
+    "token_index": 184,
+    "confidence": 0.6148
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 18,
+    "column": 3,
+    "token": "8 a - L",
+    "token_index": 200,
+    "confidence": 0.6848
+  }
+]

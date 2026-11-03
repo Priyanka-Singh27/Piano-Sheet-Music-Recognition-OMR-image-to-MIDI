@@ -1,0 +1,57 @@
+[
+  {
+    "note": "C-5",
+    "offset": 0.6666666666666666,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-5",
+    "offset": 0.8333333333333334,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B--2",
+    "offset": 13.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 25,
+    "column": 0,
+    "token": "*v",
+    "token_index": 223,
+    "confidence": 0.626
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 68,
+    "column": 0,
+    "token": "*v",
+    "token_index": 623,
+    "confidence": 0.3641
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 80,
+    "column": 2,
+    "token": "32 e -",
+    "token_index": 725,
+    "confidence": 0.6477
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 82,
+    "column": 0,
+    "token": "8 F",
+    "token_index": 736,
+    "confidence": 0.673
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 86,
+    "column": 0,
+    "token": "=",
+    "token_index": 774,
+    "confidence": 0.631
+  }
+]

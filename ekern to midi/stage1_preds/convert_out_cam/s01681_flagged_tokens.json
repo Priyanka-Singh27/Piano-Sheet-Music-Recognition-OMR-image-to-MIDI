@@ -1,0 +1,33 @@
+[
+  {
+    "note": "F#4",
+    "offset": 5.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G-4",
+    "offset": 6.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#4",
+    "offset": 9.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 70,
+    "column": 0,
+    "token": "4 F",
+    "token_index": 572,
+    "confidence": 0.6475
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 79,
+    "column": 0,
+    "token": "=",
+    "token_index": 652,
+    "confidence": 0.6859
+  }
+]

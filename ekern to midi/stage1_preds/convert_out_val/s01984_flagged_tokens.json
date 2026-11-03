@@ -1,0 +1,61 @@
+[
+  {
+    "note": "C-5",
+    "offset": 7.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-5",
+    "offset": 8.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-5",
+    "offset": 8.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-5",
+    "offset": 9.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-5",
+    "offset": 10.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-5",
+    "offset": 11.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-4",
+    "offset": 11.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 1,
+    "column": 0,
+    "token": "*",
+    "token_index": 4,
+    "confidence": 0.5754
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 12,
+    "column": 0,
+    "token": "8 . AAA - <s> 8 . AA - L",
+    "token_index": 87,
+    "confidence": 0.5191
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 12,
+    "column": 1,
+    "token": "4 gg -",
+    "token_index": 99,
+    "confidence": 0.6883
+  }
+]

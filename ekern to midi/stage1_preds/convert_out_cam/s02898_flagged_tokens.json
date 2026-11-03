@@ -1,0 +1,78 @@
+[
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 6.0,
+    "actual_quarterLength": 0.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "note": "D-5",
+    "offset": 15.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A-4",
+    "offset": 22.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D-5",
+    "offset": 25.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A-4",
+    "offset": 27.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A-4",
+    "offset": 28.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D-4",
+    "offset": 18.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A-3",
+    "offset": 23.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D-4",
+    "offset": 24.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D-3",
+    "offset": 24.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A-3",
+    "offset": 26.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A-3",
+    "offset": 27.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A-2",
+    "offset": 28.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A-1",
+    "offset": 28.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G-4",
+    "offset": 30.0,
+    "issue": "accidental_outside_key_signature"
+  }
+]

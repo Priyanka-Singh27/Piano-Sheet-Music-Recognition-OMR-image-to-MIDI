@@ -1,0 +1,57 @@
+[
+  {
+    "note": "C-6",
+    "offset": 0.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G-5",
+    "offset": 2.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G-4",
+    "offset": 20.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-5",
+    "offset": 21.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G-4",
+    "offset": 22.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G-2",
+    "offset": 4.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G-3",
+    "offset": 20.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G-3",
+    "offset": 21.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G-3",
+    "offset": 21.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G-3",
+    "offset": 22.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G-3",
+    "offset": 22.5,
+    "issue": "accidental_outside_key_signature"
+  }
+]

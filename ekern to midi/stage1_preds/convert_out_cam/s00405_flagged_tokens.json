@@ -1,0 +1,139 @@
+[
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 4.75,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 4.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "note": "D-4",
+    "offset": 0.6666666666666666,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "E-4",
+    "offset": 1.3333333333333333,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#4",
+    "offset": 2.3333333333333335,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A-4",
+    "offset": 3.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A-4",
+    "offset": 5.666666666666667,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#5",
+    "offset": 7.333333333333333,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#4",
+    "offset": 9.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A-4",
+    "offset": 9.666666666666666,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#5",
+    "offset": 14.333333333333334,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "E-5",
+    "offset": 15.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "E-4",
+    "offset": 17.333333333333332,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#5",
+    "offset": 18.333333333333332,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "E-5",
+    "offset": 19.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A-3",
+    "offset": 4.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A-3",
+    "offset": 5.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A-3",
+    "offset": 7.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A-3",
+    "offset": 7.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 59,
+    "column": 0,
+    "token": "16 C <s> 16 A <s> 16 c Jk",
+    "token_index": 472,
+    "confidence": 0.5039
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 62,
+    "column": 1,
+    "token": "12 g L",
+    "token_index": 504,
+    "confidence": 0.6683
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 64,
+    "column": 0,
+    "token": "4 C <s> 4 A <s> 4 c",
+    "token_index": 516,
+    "confidence": 0.4638
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 64,
+    "column": 1,
+    "token": "12 d L",
+    "token_index": 522,
+    "confidence": 0.6649
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 66,
+    "column": 1,
+    "token": "12 g J",
+    "token_index": 534,
+    "confidence": 0.5655
+  }
+]

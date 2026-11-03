@@ -1,0 +1,50 @@
+[
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 2.0,
+    "actual_quarterLength": 1.25,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 2.0,
+    "actual_quarterLength": 1.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "note": "C#4",
+    "offset": 5.833333333333333,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#5",
+    "offset": 7.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#5",
+    "offset": 8.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#3",
+    "offset": 1.8333333333333333,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#3",
+    "offset": 3.8333333333333335,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 56,
+    "column": 0,
+    "token": "=:|!",
+    "token_index": 335,
+    "confidence": 0.6367
+  },
+  {
+    "issue": "malformed_repeats_stripped_for_midi"
+  }
+]

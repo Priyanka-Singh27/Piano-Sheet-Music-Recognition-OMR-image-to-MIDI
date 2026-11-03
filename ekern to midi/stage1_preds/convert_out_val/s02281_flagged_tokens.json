@@ -1,0 +1,10 @@
+[
+  {
+    "issue": "low_confidence_token",
+    "line": 7,
+    "column": 1,
+    "token": "16 ee - JJ [ <s> 16 cc [ <s> 16 a - [ <s> 16 e - [",
+    "token_index": 76,
+    "confidence": 0.5961
+  }
+]

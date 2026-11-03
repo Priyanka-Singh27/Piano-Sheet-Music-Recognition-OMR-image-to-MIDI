@@ -1,0 +1,33 @@
+[
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 3.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 3.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 31,
+    "column": 0,
+    "token": "8 E <s> 8 G <s> 8 A # <s> 8 c # L",
+    "token_index": 348,
+    "confidence": 0.5877
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 34,
+    "column": 0,
+    "token": "8 r",
+    "token_index": 395,
+    "confidence": 0.6992
+  },
+  {
+    "issue": "malformed_repeats_stripped_for_midi"
+  }
+]

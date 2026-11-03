@@ -1,0 +1,26 @@
+[
+  {
+    "issue": "low_confidence_token",
+    "line": 1,
+    "column": 1,
+    "token": "*^",
+    "token_index": 6,
+    "confidence": 0.6757
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 39,
+    "column": 0,
+    "token": "8 r",
+    "token_index": 400,
+    "confidence": 0.6483
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 56,
+    "column": 2,
+    "token": "4 cc # <s> 4 ee #",
+    "token_index": 582,
+    "confidence": 0.5966
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "measure_number": 1,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 4.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 4.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 2.0,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 1,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 3.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "note": "A-3",
+    "offset": 2.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 29,
+    "column": 0,
+    "token": "16 B -",
+    "token_index": 172,
+    "confidence": 0.6309
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 30,
+    "column": 0,
+    "token": "16 F",
+    "token_index": 178,
+    "confidence": 0.3648
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 34,
+    "column": 0,
+    "token": "16 F",
+    "token_index": 200,
+    "confidence": 0.5806
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 35,
+    "column": 0,
+    "token": "16 G",
+    "token_index": 205,
+    "confidence": 0.6545
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 37,
+    "column": 0,
+    "token": "=",
+    "token_index": 216,
+    "confidence": 0.6858
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 38,
+    "column": 0,
+    "token": "16 EE -",
+    "token_index": 220,
+    "confidence": 0.6051
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 46,
+    "column": 0,
+    "token": "16 G",
+    "token_index": 276,
+    "confidence": 0.4225
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 55,
+    "column": 0,
+    "token": "16 EE -",
+    "token_index": 322,
+    "confidence": 0.5463
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 55,
+    "column": 1,
+    "token": "2 g ] <s> 2 b - ] <s> 2 dd ]",
+    "token_index": 326,
+    "confidence": 0.5568
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 62,
+    "column": 0,
+    "token": "16 c",
+    "token_index": 373,
+    "confidence": 0.6643
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 67,
+    "column": 0,
+    "token": "16 E -",
+    "token_index": 399,
+    "confidence": 0.695
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 70,
+    "column": 0,
+    "token": "16 BB -",
+    "token_index": 415,
+    "confidence": 0.357
+  }
+]

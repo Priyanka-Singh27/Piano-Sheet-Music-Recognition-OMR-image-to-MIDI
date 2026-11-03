@@ -1,0 +1,271 @@
+[
+  {
+    "measure_number": 1,
+    "expected_quarterLength": 3.0,
+    "actual_quarterLength": 2.75,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 3.0,
+    "actual_quarterLength": 3.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 1,
+    "expected_quarterLength": 3.0,
+    "actual_quarterLength": 3.375,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 3.0,
+    "actual_quarterLength": 3.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "note": "F#3",
+    "offset": 5.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B#3",
+    "offset": 5.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D#4",
+    "offset": 5.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#4",
+    "offset": 5.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G#3",
+    "offset": 7.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G#4",
+    "offset": 7.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D#4",
+    "offset": 9.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#4",
+    "offset": 9.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#4",
+    "offset": 11.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#4",
+    "offset": 11.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#4",
+    "offset": 12.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#3",
+    "offset": 13.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D#4",
+    "offset": 13.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#4",
+    "offset": 13.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#3",
+    "offset": 13.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D#4",
+    "offset": 13.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#4",
+    "offset": 13.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A#3",
+    "offset": 0.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#4",
+    "offset": 0.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A#2",
+    "offset": 0.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#3",
+    "offset": 0.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A#3",
+    "offset": 1.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#4",
+    "offset": 1.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A#2",
+    "offset": 1.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#3",
+    "offset": 1.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#1",
+    "offset": 9.875,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#2",
+    "offset": 9.875,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A#1",
+    "offset": 12.375,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A#2",
+    "offset": 12.375,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A#1",
+    "offset": 12.875,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A#2",
+    "offset": 12.875,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A#1",
+    "offset": 14.125,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A#2",
+    "offset": 14.125,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 12,
+    "column": 0,
+    "token": "32 C # <s> 32 E",
+    "token_index": 78,
+    "confidence": 0.5121
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 24,
+    "column": 0,
+    "token": "32 A LLL",
+    "token_index": 162,
+    "confidence": 0.6862
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 26,
+    "column": 0,
+    "token": "32 c <s> 32 e JJ",
+    "token_index": 180,
+    "confidence": 0.5632
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 28,
+    "column": 0,
+    "token": "32 c <s> 32 g",
+    "token_index": 194,
+    "confidence": 0.6693
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 44,
+    "column": 1,
+    "token": "8 F # <s> 8 B # <s> 8 d # <s> 8 f # J",
+    "token_index": 306,
+    "confidence": 0.5736
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 51,
+    "column": 1,
+    "token": "4 c <s> 4 d # <s> 4 f # <s> 4 a <s> 4 cc",
+    "token_index": 419,
+    "confidence": 0.609
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 55,
+    "column": 1,
+    "token": "8 G <s> 8 c # <s> 8 e <s> 8 g J",
+    "token_index": 492,
+    "confidence": 0.6039
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 60,
+    "column": 0,
+    "token": "16 AAA # <s> 16 AA # Jk",
+    "token_index": 547,
+    "confidence": 0.5633
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 61,
+    "column": 1,
+    "token": "8 F # <s> 8 B <s> 8 d # <s> 8 f #",
+    "token_index": 578,
+    "confidence": 0.4417
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 64,
+    "column": 0,
+    "token": "*",
+    "token_index": 633,
+    "confidence": 0.5544
+  }
+]

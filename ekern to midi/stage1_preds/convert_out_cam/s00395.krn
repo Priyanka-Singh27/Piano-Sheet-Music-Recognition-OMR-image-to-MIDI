@@ -1,0 +1,42 @@
+**kern	**kern
+*clefF4	*clefG2
+*k[]	*k[]
+*M4/4	*M4/4
+*met(c)	*met(c)
+=-	=-
+8EEL	8ee 8gg
+8E	4ee 4gg
+8E	.
+8EJ	8gg 8bb-
+8AAL	8cc# 8ee
+8A	4cc# 4ee
+8A	.
+8AJ	8ee 8gg
+=	=
+8DDL	8dd 8ff
+8D	4dd 4ff
+8D	.
+8DJ	8ff 8aa
+8GGL	8b 8dd
+8G	4b 4dd
+8G	.
+8GJ	8dd 8ff
+=	=
+8cL	16ffLL
+.	16ee-
+8e-	16dd
+.	16ccJJ
+8c	16bLL
+.	16cc
+8B-J	16dd
+.	16ccJJ
+8A-L	16ffLL
+.	16ee-
+8c	16dd
+.	16ccJJ
+8A-	16bLL
+.	16cc
+8GJ	16dd
+.	16ccJJ
+=	=
+*-	*-

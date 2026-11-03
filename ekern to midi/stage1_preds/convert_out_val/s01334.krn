@@ -1,0 +1,61 @@
+**kern	**kern
+*clefG2	*clefG2
+*k[f#]	*k[f#]
+*M2/2	*M2/2
+=-	=-
+1d 1a	8ff#L
+.	8gg
+.	8aa
+.	8bbJ
+.	8cccL
+.	8ccc#
+.	8eee
+.	8dddJ
+=	=
+1gg 1bb	8ccc#L
+.	8ddd
+.	8eee
+.	8dddJ
+.	8ccc#L
+.	8ddd
+.	8bbb
+.	8gggJ
+=	=
+2dd 2ff# 2aa	8fff#L
+.	8ggg
+.	8aaa
+.	8bbbJ
+2cc 2dd 2ff# 2aa	8ccccL
+.	8cccc#
+.	8eeee
+.	8ddddJ
+=	=
+2b 2dd	8cccc#L
+.	8dddd
+.	8cccc
+.	8bbbJ
+2g 2b	8aaaL
+.	8ggg
+.	8fff#
+.	8eeeJ
+=	=
+2d 2a 2cc	8dddL
+.	8ccc
+.	8bb
+.	8aaJ
+2d 2a 2cc	8ggL
+.	8ff#
+.	8aa
+.	8cccJ
+*clefF4	*
+=	=
+8r	1gg 1bb
+8dL	.
+8e	.
+8dJ	.
+8c#L	.
+8d	.
+8B	.
+8GJ	.
+=	=
+*-	*-

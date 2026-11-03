@@ -1,0 +1,63 @@
+[
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 2.0,
+    "actual_quarterLength": 1.875,
+    "issue": "duration_mismatch"
+  },
+  {
+    "note": "C-2",
+    "offset": 7.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-3",
+    "offset": 7.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-3",
+    "offset": 8.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-3",
+    "offset": 9.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 63,
+    "column": 1,
+    "token": "32 d JJJ",
+    "token_index": 440,
+    "confidence": 0.6875
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 73,
+    "column": 0,
+    "token": "32 BBB - LLL",
+    "token_index": 509,
+    "confidence": 0.4184
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 82,
+    "column": 1,
+    "token": "32 g - LLL",
+    "token_index": 579,
+    "confidence": 0.485
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 85,
+    "column": 1,
+    "token": "32 A - LLL",
+    "token_index": 606,
+    "confidence": 0.5977
+  },
+  {
+    "issue": "malformed_repeats_stripped_for_midi"
+  }
+]

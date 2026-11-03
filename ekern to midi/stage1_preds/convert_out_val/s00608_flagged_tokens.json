@@ -1,0 +1,113 @@
+[
+  {
+    "note": "F#5",
+    "offset": 0.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#5",
+    "offset": 0.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#5",
+    "offset": 0.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#5",
+    "offset": 1.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#5",
+    "offset": 2.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#5",
+    "offset": 2.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#5",
+    "offset": 2.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#5",
+    "offset": 3.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#5",
+    "offset": 4.875,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#5",
+    "offset": 6.125,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#5",
+    "offset": 6.375,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 1,
+    "column": 0,
+    "token": "*^",
+    "token_index": 4,
+    "confidence": 0.6038
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 1,
+    "column": 1,
+    "token": "*^",
+    "token_index": 6,
+    "confidence": 0.6406
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 6,
+    "column": 3,
+    "token": "8 dd - X",
+    "token_index": 56,
+    "confidence": 0.6441
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 47,
+    "column": 2,
+    "token": "32 ff # JJJ",
+    "token_index": 509,
+    "confidence": 0.5344
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 69,
+    "column": 0,
+    "token": "32 c LLL",
+    "token_index": 743,
+    "confidence": 0.5312
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 75,
+    "column": 0,
+    "token": "16 FF LL<",
+    "token_index": 799,
+    "confidence": 0.5601
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 75,
+    "column": 1,
+    "token": "32 F LLL",
+    "token_index": 803,
+    "confidence": 0.508
+  }
+]

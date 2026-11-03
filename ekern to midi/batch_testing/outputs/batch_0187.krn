@@ -1,0 +1,106 @@
+**kern	**kern
+*clefF4	*clefG2
+*k[b-e-a-d-g-c-]	*k[b-e-a-d-g-c-]
+*M4/4	*M4/4
+=-	=-
+16GG- 16G-LL	8g-
+16G- 16B- 16d-	.
+16G- 16B- 16d-	8g-[ 8gg-[
+16G- 16B- 16d-JJ	.
+16G- 16B- 16d-LL	16.g-] 16.gg-LL]
+16G- 16B- 16d-	.
+.	32g- 32gg-k
+16G- 16B- 16d-	16.a- 16.aa-
+16G- 16B- 16d-JJ	.
+.	32b- 32bb-JJk
+16G- 16c- 16e-LL	8b- 8bb-L
+16G- 16c- 16e-	.
+16G- 16c- 16e-	16a- 16aa-Jk
+16G- 16c- 16e-JJ	32r
+.	32a-
+16FF 16FLL	16.A-< 16.c-< 16.d 16.a-LL
+16FF 16F	.
+.	32A-< 32c-< 32d 32a-k
+16EE- 16E-	16.A-< 16.c-< 16.e-< 16.a-
+16EE- 16E-JJ	.
+.	32A-< 32c-< 32e-< 32a-JJk
+=	=
+16DD 16D	8A-< 8c-< 8f 8a-
+16D 16F 16A- 16c-LL	.
+16D 16F 16A- 16c-	8a-[ 8aa-[
+16D 16F 16A- 16c-JJ	.
+16D- 16F 16A- 16c-LL	16.a-] 16.aa-LL]
+16D- 16F 16A- 16c-	.
+.	32a- 32aa-k
+16D- 16F 16A- 16c-	16.b- 16.bb-
+16D- 16F 16A- 16c-JJ	.
+.	32cc- 32ccc-JJk
+16D- 16E 16G 16B-LL	8cc- 8ccc-L
+16D- 16E 16G 16B-	.
+16D- 16E 16G 16B-	16b- 16bb-Jk
+16D- 16E 16G 16B-JJ	32r
+.	32B- 32e 32g 32b-
+16CC 16CLL	16.c 16.e 16.g 16.ccLL
+16CC 16C	.
+.	32c 32e 32g 32cck
+16BBB- 16BB-	16.d-X 16.e 16.g 16.dd-X
+16BBB- 16BB-JJ	.
+.	32d- 32e 32g 32dd-JJk
+=	=
+16AAA 16AA	8c 8f 8a 8cc
+16A 16c 16fLL	.
+16A 16c 16f	8cc[ 8ccc[
+16A 16c 16fJJ	.
+16A 16c 16fLL	16.cc] 16.cccLL]
+16A 16c 16f	.
+.	32cc 32ccck
+16A 16c 16f	16.dd 16.ddd
+16A 16c 16fJJ	.
+.	32ee- 32eee-JJk
+16A- 16c- 16fLL	8ee- 8eee-L
+16A- 16c- 16f	.
+16A- 16c- 16f	16dd 16dddJk
+16A- 16c- 16fJJ	16r
+16F 16A- 16dLL	8r
+16F 16A- 16d	.
+16F 16A- 16d	16.dd 16.dddLL
+16F 16A- 16dJJ	.
+.	32ee- 32eee-JJk
+=	=
+16D 16F 16c-LL	8ee 8eeeL
+16D 16F 16c-	.
+16D 16F 16c-	8ff 8fffJ
+16D 16F 16c-JJ	.
+16C- 16D 16A-LL	8r
+16C- 16D 16A-	.
+16C- 16D 16A-	16.ff 16.fffLL
+16C- 16D 16A-JJ	.
+.	32gg- 32ggg-JJk
+16BB- 16D 16A-LL	8gg 8ggg
+16BB- 16D 16A-	.
+16BB- 16D 16A-	4aa- 4aaa-
+16BB- 16D 16A-JJ	.
+16C- 16E- 16A-LL	.
+16C- 16E- 16A-	.
+16C- 16E- 16A-	8aa- 8aaa-
+16C- 16E- 16A-JJ	.
+=	=
+8BB- 8D 8A-	8aa-[ 8aaa-[
+8r	32aa-] 32aaa-LLL]
+.	64ggg-XL
+.	64fff
+.	64aaa-
+.	64ggg-
+.	64fff
+.	64eee-JJJJ
+8r	16dddLL
+.	16ddd
+*clefG2	*
+16b- 16ffLL>	16aa- 16ddd
+16b- 16ffJJ	16aa- 16dddJJ
+8cc- 8ee-	8gg- 8eee-
+8r	8r
+4r	4r
+*clefF4	*
+=	=
+*-	*-

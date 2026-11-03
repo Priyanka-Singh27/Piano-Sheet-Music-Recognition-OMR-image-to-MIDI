@@ -1,0 +1,29 @@
+[
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 3.75,
+    "issue": "duration_mismatch"
+  },
+  {
+    "note": "F-4",
+    "offset": 18.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F-4",
+    "offset": 22.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 1,
+    "column": 0,
+    "token": "*^",
+    "token_index": 4,
+    "confidence": 0.5867
+  },
+  {
+    "issue": "malformed_repeats_stripped_for_midi"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "note": "F##4",
+    "offset": 5.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F##4",
+    "offset": 5.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F##4",
+    "offset": 6.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F##4",
+    "offset": 9.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 27,
+    "column": 0,
+    "token": "8 AAA # <s> 8 DD # L",
+    "token_index": 249,
+    "confidence": 0.5256
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 28,
+    "column": 0,
+    "token": "16 BBB # L",
+    "token_index": 273,
+    "confidence": 0.6318
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 28,
+    "column": 2,
+    "token": ".",
+    "token_index": 277,
+    "confidence": 0.6333
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 29,
+    "column": 0,
+    "token": "16 BBB # JJ",
+    "token_index": 282,
+    "confidence": 0.5224
+  },
+  {
+    "issue": "malformed_repeats_stripped_for_midi"
+  }
+]

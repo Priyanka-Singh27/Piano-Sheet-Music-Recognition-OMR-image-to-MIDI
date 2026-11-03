@@ -1,0 +1,45 @@
+[
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 6.0,
+    "actual_quarterLength": 4.0,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 6.0,
+    "actual_quarterLength": 4.0,
+    "issue": "duration_mismatch"
+  },
+  {
+    "note": "A#5",
+    "offset": 1.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A#4",
+    "offset": 4.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A#4",
+    "offset": 10.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 45,
+    "column": 1,
+    "token": "8 cc #",
+    "token_index": 297,
+    "confidence": 0.6706
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 47,
+    "column": 0,
+    "token": "4 . c #",
+    "token_index": 308,
+    "confidence": 0.6442
+  }
+]

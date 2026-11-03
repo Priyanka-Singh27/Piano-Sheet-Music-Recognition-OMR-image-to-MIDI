@@ -1,0 +1,197 @@
+[
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.5,
+    "actual_quarterLength": 4.25,
+    "issue": "duration_mismatch"
+  },
+  {
+    "note": "B-3",
+    "offset": 0.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-3",
+    "offset": 0.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-3",
+    "offset": 0.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-3",
+    "offset": 1.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-3",
+    "offset": 1.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-4",
+    "offset": 2.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-4",
+    "offset": 2.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-4",
+    "offset": 2.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-4",
+    "offset": 2.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-3",
+    "offset": 1.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-3",
+    "offset": 1.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-3",
+    "offset": 2.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-3",
+    "offset": 2.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-3",
+    "offset": 2.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B-3",
+    "offset": 2.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D#4",
+    "offset": 15.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D#4",
+    "offset": 17.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 18,
+    "column": 0,
+    "token": "16 E <s> 16 A LL",
+    "token_index": 212,
+    "confidence": 0.6754
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 31,
+    "column": 1,
+    "token": "16 BB <s> 16 D <s> 16 G # LL",
+    "token_index": 374,
+    "confidence": 0.6791
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 47,
+    "column": 1,
+    "token": "16 GG # <s> 16 BB",
+    "token_index": 599,
+    "confidence": 0.6046
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 48,
+    "column": 1,
+    "token": "16 GG # <s> 16 BB <s> 16 E JJ",
+    "token_index": 610,
+    "confidence": 0.3606
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 49,
+    "column": 1,
+    "token": "16 GG # <s> 16 BB <s> 16 E LL",
+    "token_index": 627,
+    "confidence": 0.5518
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 53,
+    "column": 2,
+    "token": "16 cc",
+    "token_index": 700,
+    "confidence": 0.6665
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 54,
+    "column": 1,
+    "token": "16 AA <s> 16 C <s> 16 E JJ",
+    "token_index": 705,
+    "confidence": 0.6235
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 57,
+    "column": 2,
+    "token": "16 c <s> 16 f <s> 16 a",
+    "token_index": 760,
+    "confidence": 0.5797
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 58,
+    "column": 1,
+    "token": "16 AA <s> 16 C <s> 16 E",
+    "token_index": 771,
+    "confidence": 0.6811
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 59,
+    "column": 1,
+    "token": "16 AA <s> 16 C <s> 16 E JJ",
+    "token_index": 791,
+    "confidence": 0.4432
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 65,
+    "column": 0,
+    "token": "16 BB",
+    "token_index": 851,
+    "confidence": 0.4973
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 72,
+    "column": 1,
+    "token": "8 dd ]",
+    "token_index": 913,
+    "confidence": 0.5163
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 74,
+    "column": 0,
+    "token": ".",
+    "token_index": 932,
+    "confidence": 0.6102
+  }
+]

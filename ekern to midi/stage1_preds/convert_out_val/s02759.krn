@@ -1,0 +1,79 @@
+**kern	**kern
+*clefG2	*clefG2
+*k[b-e-]	*k[b-e-]
+*M2/4	*M2/4
+=-	=-
+8d 8f	24b-LL
+.	24dd
+.	24fJJ
+8r	24ffLL
+.	24dd
+.	24b-JJ
+8e- 8f	24aLL
+.	24cc
+.	24fJJ
+8r	24ffLL
+.	24ee-
+.	24ccJJ
+=	=
+*	*^
+8d 8f	24b-LL	8r
+.	24dd	.
+.	24fJJ	.
+24dLL	4ff	8a-
+24f	.	.
+24dJJ	.	.
+24BLL	.	4g
+24d	.	.
+24BJJ	.	.
+24cLL	8ee-[	.
+24e-	.	.
+24cJJ	.	.
+=	=	=
+24ALL	8ee-]	4f
+24c	.	.
+24AJJ	.	.
+24B-LL	4dd	.
+24d	.	.
+24B-JJ	.	.
+24GLL	.	4e-
+24B-	.	.
+24GJJ	.	.
+24ALL	8cc[	.
+24c	.	.
+24AJJ	.	.
+*clefF4	*	*
+=	=	=
+24F#LL	8cc]	4d
+24A	.	.
+24F#JJ	.	.
+24GLL	4b-	.
+24B-	.	.
+24GJJ	.	.
+24ELL	.	4c
+24G	.	.
+24EJJ	.	.
+24E-LL	8a	.
+24F	.	.
+24E-JJ	.	.
+*	*v	*v
+=	=
+8DL	24b-LL
+.	24bb-
+.	24ddJJ
+8E-	24ggLL
+.	24bb-
+.	24ee-JJ
+8F	24ddLL
+.	24ff
+.	24b-JJ
+8FFJ	24ccLL
+.	24ee-
+.	24aJJ
+=	=
+8BB-	8b-
+8r	8r
+8B-L	8f 8ddL
+8AJ	8f# 8ccJ
+=	=
+*-	*-

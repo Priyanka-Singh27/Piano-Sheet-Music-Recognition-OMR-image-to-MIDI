@@ -1,0 +1,124 @@
+[
+  {
+    "note": "E--5",
+    "offset": 8.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "E--5",
+    "offset": 11.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A--1",
+    "offset": 8.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A--2",
+    "offset": 8.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A--1",
+    "offset": 10.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A--2",
+    "offset": 10.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A--1",
+    "offset": 12.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A--2",
+    "offset": 12.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A--1",
+    "offset": 14.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A--2",
+    "offset": 14.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 70,
+    "column": 1,
+    "token": "16 aaa -",
+    "token_index": 577,
+    "confidence": 0.5995
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 72,
+    "column": 1,
+    "token": "16 bb -",
+    "token_index": 595,
+    "confidence": 0.6944
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 76,
+    "column": 0,
+    "token": "8 D - <s> 8 B - <s> 8 e -",
+    "token_index": 621,
+    "confidence": 0.5621
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 84,
+    "column": 0,
+    "token": "8 D - <s> 8 B - <s> 8 f -",
+    "token_index": 692,
+    "confidence": 0.6716
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 84,
+    "column": 1,
+    "token": "16 bbb -",
+    "token_index": 704,
+    "confidence": 0.4856
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 85,
+    "column": 1,
+    "token": "16 ccc -",
+    "token_index": 710,
+    "confidence": 0.6025
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 86,
+    "column": 1,
+    "token": "16 cccc -",
+    "token_index": 717,
+    "confidence": 0.435
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 87,
+    "column": 1,
+    "token": "16 aaa -",
+    "token_index": 723,
+    "confidence": 0.2973
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 91,
+    "column": 0,
+    "token": "8 GG -",
+    "token_index": 744,
+    "confidence": 0.6824
+  }
+]

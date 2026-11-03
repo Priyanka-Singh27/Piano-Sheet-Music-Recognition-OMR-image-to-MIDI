@@ -1,0 +1,54 @@
+[
+  {
+    "note": "E#5",
+    "offset": 15.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#4",
+    "offset": 17.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G#2",
+    "offset": 5.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#3",
+    "offset": 16.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 8,
+    "column": 1,
+    "token": "16 C <s> 16 E",
+    "token_index": 68,
+    "confidence": 0.5444
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 9,
+    "column": 0,
+    "token": "16 BB <s> 16 D",
+    "token_index": 78,
+    "confidence": 0.6382
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 9,
+    "column": 1,
+    "token": "16 C",
+    "token_index": 83,
+    "confidence": 0.6265
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 10,
+    "column": 1,
+    "token": "16 AA JJ",
+    "token_index": 94,
+    "confidence": 0.6936
+  }
+]

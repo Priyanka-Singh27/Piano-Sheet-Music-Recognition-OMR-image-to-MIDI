@@ -1,0 +1,18 @@
+[
+  {
+    "issue": "low_confidence_token",
+    "line": 47,
+    "column": 0,
+    "token": "12 r",
+    "token_index": 398,
+    "confidence": 0.6873
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 54,
+    "column": 1,
+    "token": "12 r",
+    "token_index": 448,
+    "confidence": 0.6288
+  }
+]

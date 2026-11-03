@@ -1,0 +1,134 @@
+[
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 3.75,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 3.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 1,
+    "column": 0,
+    "token": "*clefF4",
+    "token_index": 4,
+    "confidence": 0.6777
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 24,
+    "column": 1,
+    "token": "1 e - <s> 1 f",
+    "token_index": 167,
+    "confidence": 0.5328
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 39,
+    "column": 0,
+    "token": "=",
+    "token_index": 276,
+    "confidence": 0.6609
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 40,
+    "column": 2,
+    "token": "1 d <s> 1 f <s> 1 b -",
+    "token_index": 297,
+    "confidence": 0.4823
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 56,
+    "column": 0,
+    "token": "=",
+    "token_index": 415,
+    "confidence": 0.6787
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 74,
+    "column": 1,
+    "token": "16 e -",
+    "token_index": 570,
+    "confidence": 0.2652
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 75,
+    "column": 1,
+    "token": ".",
+    "token_index": 579,
+    "confidence": 0.5743
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 77,
+    "column": 1,
+    "token": "16 cc",
+    "token_index": 599,
+    "confidence": 0.3515
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 78,
+    "column": 0,
+    "token": "16 c",
+    "token_index": 605,
+    "confidence": 0.6429
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 79,
+    "column": 1,
+    "token": "16 gg",
+    "token_index": 619,
+    "confidence": 0.5464
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 79,
+    "column": 2,
+    "token": "16 b -",
+    "token_index": 622,
+    "confidence": 0.5058
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 83,
+    "column": 0,
+    "token": "16 c",
+    "token_index": 652,
+    "confidence": 0.6928
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 83,
+    "column": 1,
+    "token": "16 cc",
+    "token_index": 655,
+    "confidence": 0.6032
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 86,
+    "column": 0,
+    "token": "16 d",
+    "token_index": 672,
+    "confidence": 0.6878
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 86,
+    "column": 1,
+    "token": "16 cc",
+    "token_index": 675,
+    "confidence": 0.4542
+  }
+]

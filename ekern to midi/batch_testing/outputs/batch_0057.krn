@@ -1,0 +1,80 @@
+**kern	**kern
+*clefF4	*clefG2
+*k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]
+*M2/2	*M2/2
+=-	=-
+*^	*
+4r	1AAA# 1AA#	12r
+.	.	12c##L
+.	.	12e#J
+4A#	.	12A#jL
+.	.	12c##X
+.	.	12e#J
+4B	.	12BL
+.	.	12c##j
+.	.	12e#J
+4G#	.	12G#jL
+.	.	12c##j
+.	.	12e#J
+*v	*v	*
+=	=
+*	*^
+1AAA# 1AA#	4r	12F#jL
+.	.	12f#
+.	.	12a#J
+.	4dd#	12dd#L
+.	.	12f#
+.	.	12a#J
+.	4ff#	12ff#L
+.	.	.
+.	.	12f#
+.	.	12a#J
+.	4dd#	12dd#L
+.	.	12f#
+.	.	12a#J
+.	.	.
+*	*v	*v
+=	=
+*^	*
+4r	1AAA# 1AA#	12r
+.	.	12F#jL
+.	.	12A#jJ
+4d#	.	12d#jL
+.	.	12F#j
+.	.	12A#jJ
+4f#	.	12f#jL
+.	.	12F#j
+.	.	12A#jJ
+4d#	.	12d#jL
+.	.	12F#j
+.	.	12A#jJ
+.	.	.
+*v	*v	*
+=	=
+1AAA# 1AA#	12E#jL
+.	12B
+.	12G#jJ
+.	12c##jL
+.	12B
+.	12e#J
+.	12c##XL
+.	12g#
+.	12e#J
+.	12bL
+.	12g#
+.	12cc##J
+=	=
+1AAA# 1AA#	12F#jL
+.	12d#j
+.	12A#jJ
+.	12f#L<
+.	12d#
+.	12a#J
+.	12f#L<
+.	12dd#
+.	12a#J
+.	12ff#L
+.	12dd#
+.	12a#J
+=	=
+*-	*-

@@ -1,0 +1,249 @@
+[
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 3.875,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 3.75,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 3.5625,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 3.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 4.25,
+    "issue": "duration_mismatch"
+  },
+  {
+    "note": "D-5",
+    "offset": 10.875,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D-5",
+    "offset": 15.125,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D-5",
+    "offset": 15.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G-5",
+    "offset": 15.4375,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A-5",
+    "offset": 15.5625,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-5",
+    "offset": 18.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D-5",
+    "offset": 18.3125,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D-5",
+    "offset": 18.375,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D-5",
+    "offset": 18.4375,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A-5",
+    "offset": 19.0625,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A-5",
+    "offset": 19.125,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D-3",
+    "offset": 13.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D-3",
+    "offset": 14.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 33,
+    "column": 1,
+    "token": "64 g LLLL",
+    "token_index": 211,
+    "confidence": 0.3779
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 38,
+    "column": 0,
+    "token": "16 B -",
+    "token_index": 236,
+    "confidence": 0.5292
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 42,
+    "column": 0,
+    "token": "16 G JJ",
+    "token_index": 260,
+    "confidence": 0.5388
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 89,
+    "column": 1,
+    "token": "64 dd -",
+    "token_index": 571,
+    "confidence": 0.5984
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 91,
+    "column": 0,
+    "token": "16 B -",
+    "token_index": 579,
+    "confidence": 0.6857
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 91,
+    "column": 1,
+    "token": "64 dd -",
+    "token_index": 585,
+    "confidence": 0.5724
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 96,
+    "column": 1,
+    "token": "64 aa - JJJJ",
+    "token_index": 615,
+    "confidence": 0.5252
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 98,
+    "column": 0,
+    "token": "16 C LL",
+    "token_index": 622,
+    "confidence": 0.6082
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 99,
+    "column": 0,
+    "token": "16 E",
+    "token_index": 632,
+    "confidence": 0.6617
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 101,
+    "column": 0,
+    "token": "16 c",
+    "token_index": 642,
+    "confidence": 0.3921
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 109,
+    "column": 0,
+    "token": "16 e -",
+    "token_index": 700,
+    "confidence": 0.6535
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 110,
+    "column": 1,
+    "token": "64 cc -",
+    "token_index": 711,
+    "confidence": 0.6488
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 112,
+    "column": 0,
+    "token": ".",
+    "token_index": 721,
+    "confidence": 0.5973
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 112,
+    "column": 1,
+    "token": "64 dd -",
+    "token_index": 724,
+    "confidence": 0.456
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 114,
+    "column": 1,
+    "token": "32 ee -",
+    "token_index": 740,
+    "confidence": 0.6297
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 115,
+    "column": 1,
+    "token": "64 ee",
+    "token_index": 745,
+    "confidence": 0.558
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 116,
+    "column": 0,
+    "token": "16 c",
+    "token_index": 747,
+    "confidence": 0.5299
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 118,
+    "column": 0,
+    "token": "16 F JJ",
+    "token_index": 758,
+    "confidence": 0.6163
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 122,
+    "column": 0,
+    "token": "*-",
+    "token_index": 782,
+    "confidence": 0.6856
+  }
+]

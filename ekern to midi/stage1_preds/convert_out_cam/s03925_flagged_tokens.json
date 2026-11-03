@@ -1,0 +1,23 @@
+[
+  {
+    "note": "F-1",
+    "offset": 3.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F-2",
+    "offset": 3.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 5,
+    "column": 0,
+    "token": "8 DD - <s> 8 D - L",
+    "token_index": 21,
+    "confidence": 0.6646
+  },
+  {
+    "issue": "malformed_repeats_stripped_for_midi"
+  }
+]

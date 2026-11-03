@@ -1,0 +1,76 @@
+[
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 3.0,
+    "actual_quarterLength": 2.4999999999999996,
+    "issue": "duration_mismatch"
+  },
+  {
+    "note": "C-4",
+    "offset": 5.666666666666667,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#3",
+    "offset": 8.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-4",
+    "offset": 11.166666666666666,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#3",
+    "offset": 14.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 60,
+    "column": 0,
+    "token": "24 G L",
+    "token_index": 552,
+    "confidence": 0.6435
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 60,
+    "column": 2,
+    "token": "8 ee - [ <s> 8 ccc [",
+    "token_index": 563,
+    "confidence": 0.4796
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 63,
+    "column": 0,
+    "token": "24 A LL",
+    "token_index": 587,
+    "confidence": 0.5504
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 63,
+    "column": 2,
+    "token": "8 ee - ] <s> 8 ccc L ]",
+    "token_index": 594,
+    "confidence": 0.6616
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 66,
+    "column": 2,
+    "token": "24 ee - <s> 24 ddd L",
+    "token_index": 631,
+    "confidence": 0.6777
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 79,
+    "column": 0,
+    "token": "24 A - LL",
+    "token_index": 761,
+    "confidence": 0.5775
+  }
+]

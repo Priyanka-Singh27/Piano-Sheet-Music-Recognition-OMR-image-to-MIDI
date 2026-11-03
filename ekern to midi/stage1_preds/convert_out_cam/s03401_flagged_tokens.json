@@ -1,0 +1,143 @@
+[
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 4.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 5.0,
+    "issue": "duration_mismatch"
+  },
+  {
+    "note": "G-4",
+    "offset": 2.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G-5",
+    "offset": 4.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A-4",
+    "offset": 8.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A-4",
+    "offset": 9.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G-4",
+    "offset": 10.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 57,
+    "column": 0,
+    "token": "4 F",
+    "token_index": 414,
+    "confidence": 0.5444
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 61,
+    "column": 0,
+    "token": "4 A",
+    "token_index": 436,
+    "confidence": 0.6063
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 61,
+    "column": 1,
+    "token": "16 cc LL",
+    "token_index": 440,
+    "confidence": 0.6366
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 68,
+    "column": 0,
+    "token": "8 r",
+    "token_index": 476,
+    "confidence": 0.6196
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 70,
+    "column": 1,
+    "token": "16 r",
+    "token_index": 492,
+    "confidence": 0.6002
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 72,
+    "column": 0,
+    "token": "8 F",
+    "token_index": 502,
+    "confidence": 0.5154
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 75,
+    "column": 1,
+    "token": "16 g LL",
+    "token_index": 524,
+    "confidence": 0.5548
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 77,
+    "column": 1,
+    "token": "16 cc JJ",
+    "token_index": 535,
+    "confidence": 0.4607
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 78,
+    "column": 0,
+    "token": "8 r",
+    "token_index": 538,
+    "confidence": 0.5555
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 79,
+    "column": 1,
+    "token": "16 g LL",
+    "token_index": 548,
+    "confidence": 0.5887
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 80,
+    "column": 1,
+    "token": "16 r",
+    "token_index": 554,
+    "confidence": 0.5638
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 81,
+    "column": 1,
+    "token": "16 a",
+    "token_index": 559,
+    "confidence": 0.3755
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 82,
+    "column": 0,
+    "token": "8 F",
+    "token_index": 562,
+    "confidence": 0.6541
+  }
+]

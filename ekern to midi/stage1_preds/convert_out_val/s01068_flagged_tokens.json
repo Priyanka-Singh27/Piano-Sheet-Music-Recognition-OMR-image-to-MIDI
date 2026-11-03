@@ -1,0 +1,43 @@
+[
+  {
+    "note": "D#4",
+    "offset": 6.375,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D#4",
+    "offset": 7.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G#4",
+    "offset": 7.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G#4",
+    "offset": 8.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D#3",
+    "offset": 5.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 13,
+    "column": 0,
+    "token": "16 FF # <s> 16 F # LL",
+    "token_index": 115,
+    "confidence": 0.5025
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 35,
+    "column": 1,
+    "token": "16 d [ <s> 16 g # [<",
+    "token_index": 355,
+    "confidence": 0.6136
+  }
+]

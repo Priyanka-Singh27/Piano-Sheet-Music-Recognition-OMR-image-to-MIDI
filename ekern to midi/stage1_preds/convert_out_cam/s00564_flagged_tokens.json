@@ -1,0 +1,30 @@
+[
+  {
+    "note": "A#4",
+    "offset": 0.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A#3",
+    "offset": 3.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A#1",
+    "offset": 10.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A#2",
+    "offset": 10.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 9,
+    "column": 1,
+    "token": "4 B <s> 4 e <s> 4 g #",
+    "token_index": 76,
+    "confidence": 0.5505
+  }
+]

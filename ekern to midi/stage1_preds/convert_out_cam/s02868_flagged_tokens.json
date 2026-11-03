@@ -1,0 +1,10 @@
+[
+  {
+    "issue": "low_confidence_token",
+    "line": 5,
+    "column": 1,
+    "token": "ggg - q",
+    "token_index": 22,
+    "confidence": 0.6176
+  }
+]

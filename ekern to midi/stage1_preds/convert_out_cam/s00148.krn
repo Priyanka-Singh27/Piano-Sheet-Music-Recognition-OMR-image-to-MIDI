@@ -1,0 +1,44 @@
+**kern	**kern
+*	*^
+*clefF4	*clefG2	*clefG2
+*k[]	*k[]	*k[]
+*M2/4	*M2/4	*M2/4
+=-	=-	=-
+16EELL	2cc	4c: 4e: 4g:
+16C	.	.
+16GG	.	.
+16CJJ	.	.
+16EELL	.	4r
+16C	.	.
+16GG	.	.
+16CJJ	.	.
+=	=	=
+16FFLL	2a:	4A: 4d: 4f:
+16D	.	.
+16AA	.	.
+16DJJ	.	.
+16FFLL	.	4r
+16D	.	.
+16AA	.	.
+16DJJ	.	.
+*	*v	*v
+=	=
+16GGLL	16aLL
+16E	16g
+16C	16f
+16EJJ	16eJJ
+16GGLL	16eLL
+16F	16d
+16D	16c
+16FJJ	16BJJ
+=	=
+4C 4E	16dLL
+.	16c
+.	16e
+.	16dJJ
+4r	16fLL
+.	16e
+.	16g
+.	16fJJ
+=	=
+*-	*-

@@ -1,0 +1,14 @@
+[
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 1.5,
+    "actual_quarterLength": 1.0,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 1.5,
+    "actual_quarterLength": 1.0,
+    "issue": "duration_mismatch"
+  }
+]

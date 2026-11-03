@@ -1,0 +1,370 @@
+[
+  {
+    "measure_number": 1,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 3.0,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 3.0,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 1,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 3.0,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 3.0,
+    "issue": "duration_mismatch"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 2,
+    "column": 0,
+    "token": "*k[]",
+    "token_index": 8,
+    "confidence": 0.2524
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 3,
+    "column": 0,
+    "token": "*M4/4",
+    "token_index": 12,
+    "confidence": 0.5048
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 6,
+    "column": 0,
+    "token": "4 C",
+    "token_index": 25,
+    "confidence": 0.1686
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 6,
+    "column": 1,
+    "token": "4 cc <s> 4 ee",
+    "token_index": 28,
+    "confidence": 0.2067
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 7,
+    "column": 0,
+    "token": "4 r",
+    "token_index": 34,
+    "confidence": 0.4307
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 8,
+    "column": 0,
+    "token": "4 r",
+    "token_index": 40,
+    "confidence": 0.3931
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 9,
+    "column": 0,
+    "token": "=",
+    "token_index": 45,
+    "confidence": 0.5181
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 10,
+    "column": 0,
+    "token": "4 C",
+    "token_index": 50,
+    "confidence": 0.4262
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 10,
+    "column": 1,
+    "token": "4 cc <s> 4 ee",
+    "token_index": 53,
+    "confidence": 0.2323
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 12,
+    "column": 0,
+    "token": "4 r",
+    "token_index": 65,
+    "confidence": 0.4716
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 13,
+    "column": 0,
+    "token": "4 C <s> 4 F",
+    "token_index": 74,
+    "confidence": 0.4429
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 13,
+    "column": 1,
+    "token": "4 cc <s> 4 ee",
+    "token_index": 77,
+    "confidence": 0.4945
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 15,
+    "column": 0,
+    "token": "4 C <s> 4 F",
+    "token_index": 87,
+    "confidence": 0.5325
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 15,
+    "column": 1,
+    "token": "4 cc <s> 4 ee",
+    "token_index": 93,
+    "confidence": 0.2878
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 17,
+    "column": 0,
+    "token": "4 C <s> 4 F",
+    "token_index": 105,
+    "confidence": 0.5931
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 17,
+    "column": 1,
+    "token": "4 cc <s> 4 ee",
+    "token_index": 111,
+    "confidence": 0.4065
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 18,
+    "column": 0,
+    "token": "=",
+    "token_index": 116,
+    "confidence": 0.4618
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 19,
+    "column": 1,
+    "token": "4 r",
+    "token_index": 127,
+    "confidence": 0.2424
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 20,
+    "column": 1,
+    "token": "4 r",
+    "token_index": 133,
+    "confidence": 0.5484
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 21,
+    "column": 0,
+    "token": "4 C <s> 4 F",
+    "token_index": 135,
+    "confidence": 0.623
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 21,
+    "column": 1,
+    "token": "4 cc <s> 4 ee",
+    "token_index": 142,
+    "confidence": 0.4254
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 22,
+    "column": 0,
+    "token": "4 r",
+    "token_index": 148,
+    "confidence": 0.4804
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 24,
+    "column": 0,
+    "token": "4 C <s> 4 F",
+    "token_index": 158,
+    "confidence": 0.5416
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 24,
+    "column": 1,
+    "token": "4 r",
+    "token_index": 164,
+    "confidence": 0.3606
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 25,
+    "column": 1,
+    "token": "4 r",
+    "token_index": 170,
+    "confidence": 0.5439
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 26,
+    "column": 0,
+    "token": "4 C <s> 4 F",
+    "token_index": 173,
+    "confidence": 0.5012
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 26,
+    "column": 1,
+    "token": "4 cc <s> 4 ee",
+    "token_index": 179,
+    "confidence": 0.2595
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 27,
+    "column": 0,
+    "token": "4 r",
+    "token_index": 184,
+    "confidence": 0.4641
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 29,
+    "column": 0,
+    "token": "4 C <s> 4 F",
+    "token_index": 195,
+    "confidence": 0.421
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 29,
+    "column": 1,
+    "token": "4 r",
+    "token_index": 201,
+    "confidence": 0.3104
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 30,
+    "column": 1,
+    "token": "4 r",
+    "token_index": 206,
+    "confidence": 0.514
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 31,
+    "column": 0,
+    "token": "4 r",
+    "token_index": 210,
+    "confidence": 0.4586
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 31,
+    "column": 1,
+    "token": "4 r",
+    "token_index": 213,
+    "confidence": 0.4257
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 32,
+    "column": 0,
+    "token": "4 C <s> 4 F",
+    "token_index": 215,
+    "confidence": 0.4618
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 32,
+    "column": 1,
+    "token": "4 cc <s> 4 ee",
+    "token_index": 222,
+    "confidence": 0.2652
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 34,
+    "column": 0,
+    "token": "4 C <s> 4 F",
+    "token_index": 232,
+    "confidence": 0.3799
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 34,
+    "column": 1,
+    "token": "4 r",
+    "token_index": 238,
+    "confidence": 0.2933
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 35,
+    "column": 1,
+    "token": "4 r",
+    "token_index": 244,
+    "confidence": 0.6
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 36,
+    "column": 0,
+    "token": "4 r",
+    "token_index": 247,
+    "confidence": 0.41
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 36,
+    "column": 1,
+    "token": "4 r",
+    "token_index": 250,
+    "confidence": 0.4547
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 37,
+    "column": 0,
+    "token": "4 C <s> 4 F",
+    "token_index": 252,
+    "confidence": 0.5382
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 37,
+    "column": 1,
+    "token": "4 cc <s> 4 ee",
+    "token_index": 259,
+    "confidence": 0.2936
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 39,
+    "column": 0,
+    "token": "*-",
+    "token_index": 268,
+    "confidence": 0.3905
+  }
+]

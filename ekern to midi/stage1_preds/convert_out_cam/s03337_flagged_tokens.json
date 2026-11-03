@@ -1,0 +1,13 @@
+[
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 2.0,
+    "actual_quarterLength": 1.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "note": "G-3",
+    "offset": 4.75,
+    "issue": "accidental_outside_key_signature"
+  }
+]

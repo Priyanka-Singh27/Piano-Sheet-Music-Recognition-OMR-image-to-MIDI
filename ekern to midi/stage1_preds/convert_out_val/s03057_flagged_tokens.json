@@ -1,0 +1,99 @@
+[
+  {
+    "note": "C##4",
+    "offset": 1.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##4",
+    "offset": 2.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##4",
+    "offset": 2.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##5",
+    "offset": 3.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##3",
+    "offset": 1.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##3",
+    "offset": 2.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##3",
+    "offset": 4.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F##3",
+    "offset": 7.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F##3",
+    "offset": 7.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F##2",
+    "offset": 8.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B#3",
+    "offset": 8.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B#3",
+    "offset": 9.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B#3",
+    "offset": 11.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 29,
+    "column": 2,
+    "token": "32 ff # JJJ",
+    "token_index": 338,
+    "confidence": 0.5903
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 38,
+    "column": 2,
+    "token": "16 d # LL [",
+    "token_index": 470,
+    "confidence": 0.651
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 55,
+    "column": 1,
+    "token": "16 gg # JJ [",
+    "token_index": 686,
+    "confidence": 0.5253
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 62,
+    "column": 0,
+    "token": "=",
+    "token_index": 788,
+    "confidence": 0.6112
+  }
+]

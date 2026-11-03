@@ -1,0 +1,51 @@
+[
+  {
+    "note": "C-2",
+    "offset": 7.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-3",
+    "offset": 7.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-3",
+    "offset": 8.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-3",
+    "offset": 9.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-3",
+    "offset": 10.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-3",
+    "offset": 11.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 64,
+    "column": 0,
+    "token": "8 DD - <s> 8 D - L",
+    "token_index": 445,
+    "confidence": 0.6037
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 73,
+    "column": 1,
+    "token": "4 d <s> 4 f <s> 4 a - <s> 4 dd",
+    "token_index": 516,
+    "confidence": 0.6509
+  },
+  {
+    "issue": "malformed_repeats_stripped_for_midi"
+  }
+]

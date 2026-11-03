@@ -1,0 +1,37 @@
+[
+  {
+    "measure_number": 1,
+    "expected_quarterLength": 2.0,
+    "actual_quarterLength": 0.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 1,
+    "expected_quarterLength": 2.0,
+    "actual_quarterLength": 0.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "note": "A3",
+    "offset": 2.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A2",
+    "offset": 2.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A3",
+    "offset": 6.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A2",
+    "offset": 6.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "malformed_repeats_stripped_for_midi"
+  }
+]

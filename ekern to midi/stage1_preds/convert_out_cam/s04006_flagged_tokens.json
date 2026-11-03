@@ -1,0 +1,41 @@
+[
+  {
+    "note": "G#4",
+    "offset": 2.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#5",
+    "offset": 3.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#5",
+    "offset": 4.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#3",
+    "offset": 2.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 21,
+    "column": 1,
+    "token": "16 ee LL",
+    "token_index": 156,
+    "confidence": 0.5312
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 25,
+    "column": 1,
+    "token": "16 c LL",
+    "token_index": 184,
+    "confidence": 0.5312
+  },
+  {
+    "issue": "malformed_repeats_stripped_for_midi"
+  }
+]

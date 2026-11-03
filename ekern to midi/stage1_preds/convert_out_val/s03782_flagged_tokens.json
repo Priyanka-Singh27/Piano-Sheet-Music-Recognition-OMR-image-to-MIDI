@@ -1,0 +1,50 @@
+[
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 3.75,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 1,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 3.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 3.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 3.75,
+    "issue": "duration_mismatch"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 12,
+    "column": 0,
+    "token": "16 E -",
+    "token_index": 62,
+    "confidence": 0.5259
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 33,
+    "column": 0,
+    "token": "16 G",
+    "token_index": 196,
+    "confidence": 0.4989
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 68,
+    "column": 0,
+    "token": "=",
+    "token_index": 400,
+    "confidence": 0.5173
+  }
+]

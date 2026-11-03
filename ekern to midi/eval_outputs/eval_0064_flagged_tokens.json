@@ -1,0 +1,13 @@
+[
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 2.0,
+    "actual_quarterLength": 1.0,
+    "issue": "duration_mismatch"
+  },
+  {
+    "note": "C#5",
+    "offset": 2.25,
+    "issue": "accidental_outside_key_signature"
+  }
+]

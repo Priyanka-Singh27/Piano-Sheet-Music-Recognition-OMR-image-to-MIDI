@@ -1,0 +1,366 @@
+[
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 3.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 3.75,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 3.75,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 3.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 3.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 3.75,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 3.75,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 3.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 3.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "note": "E-4",
+    "offset": 0.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A-4",
+    "offset": 0.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "E-5",
+    "offset": 1.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A-5",
+    "offset": 2.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "E-6",
+    "offset": 3.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A-6",
+    "offset": 4.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "E-6",
+    "offset": 4.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "E-5",
+    "offset": 5.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "E-4",
+    "offset": 6.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "E-3",
+    "offset": 7.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#5",
+    "offset": 15.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#6",
+    "offset": 16.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#6",
+    "offset": 17.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "E-3",
+    "offset": 0.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A-4",
+    "offset": 3.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G#1",
+    "offset": 8.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#3",
+    "offset": 11.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#3",
+    "offset": 13.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#4",
+    "offset": 15.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#5",
+    "offset": 17.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#5",
+    "offset": 18.25,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#6",
+    "offset": 19.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 6,
+    "column": 0,
+    "token": "4 GG : <s> 4 E - : <s> 4 B - :",
+    "token_index": 26,
+    "confidence": 0.5637
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 6,
+    "column": 1,
+    "token": "16 e - X",
+    "token_index": 41,
+    "confidence": 0.4979
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 14,
+    "column": 0,
+    "token": "4 G <s> 4 B - <s> 4 d <s> 4 g",
+    "token_index": 91,
+    "confidence": 0.6478
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 21,
+    "column": 0,
+    "token": ".",
+    "token_index": 143,
+    "confidence": 0.603
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 24,
+    "column": 1,
+    "token": "2 d",
+    "token_index": 164,
+    "confidence": 0.304
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 31,
+    "column": 0,
+    "token": "2 r",
+    "token_index": 216,
+    "confidence": 0.6653
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 46,
+    "column": 1,
+    "token": "16 E",
+    "token_index": 323,
+    "confidence": 0.4227
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 47,
+    "column": 1,
+    "token": "16 D",
+    "token_index": 329,
+    "confidence": 0.3657
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 49,
+    "column": 1,
+    "token": "16 D",
+    "token_index": 341,
+    "confidence": 0.5401
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 50,
+    "column": 1,
+    "token": "16 B -",
+    "token_index": 348,
+    "confidence": 0.6328
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 63,
+    "column": 0,
+    "token": "16 A",
+    "token_index": 428,
+    "confidence": 0.6079
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 63,
+    "column": 1,
+    "token": "16 a",
+    "token_index": 431,
+    "confidence": 0.6303
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 66,
+    "column": 0,
+    "token": "16 c",
+    "token_index": 446,
+    "confidence": 0.4947
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 66,
+    "column": 1,
+    "token": "16 dd",
+    "token_index": 449,
+    "confidence": 0.4932
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 67,
+    "column": 0,
+    "token": "16 B -",
+    "token_index": 452,
+    "confidence": 0.4946
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 75,
+    "column": 0,
+    "token": "16 f",
+    "token_index": 503,
+    "confidence": 0.6
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 80,
+    "column": 0,
+    "token": "16 ff",
+    "token_index": 537,
+    "confidence": 0.4093
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 83,
+    "column": 1,
+    "token": "16 ccc #",
+    "token_index": 559,
+    "confidence": 0.5913
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 89,
+    "column": 0,
+    "token": "16 ddd",
+    "token_index": 593,
+    "confidence": 0.5552
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 89,
+    "column": 1,
+    "token": "16 eeee",
+    "token_index": 596,
+    "confidence": 0.3532
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 92,
+    "column": 1,
+    "token": "16 ffff",
+    "token_index": 617,
+    "confidence": 0.6602
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 93,
+    "column": 1,
+    "token": "16 eeee",
+    "token_index": 623,
+    "confidence": 0.6589
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 94,
+    "column": 0,
+    "token": "16 eee",
+    "token_index": 625,
+    "confidence": 0.5244
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 94,
+    "column": 1,
+    "token": "16 eeee",
+    "token_index": 629,
+    "confidence": 0.2865
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 95,
+    "column": 0,
+    "token": "8 r",
+    "token_index": 632,
+    "confidence": 0.6911
+  }
+]

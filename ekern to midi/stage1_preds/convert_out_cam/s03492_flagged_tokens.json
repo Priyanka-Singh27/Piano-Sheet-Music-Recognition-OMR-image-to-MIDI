@@ -1,0 +1,18 @@
+[
+  {
+    "issue": "low_confidence_token",
+    "line": 1,
+    "column": 0,
+    "token": "*clefF4",
+    "token_index": 4,
+    "confidence": 0.5809
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 25,
+    "column": 0,
+    "token": "*",
+    "token_index": 234,
+    "confidence": 0.6224
+  }
+]

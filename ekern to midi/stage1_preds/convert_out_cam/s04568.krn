@@ -1,0 +1,71 @@
+**kern	**kern
+*clefF4	*clefG2
+*k[f#c#g#]	*k[f#c#g#]
+*M4/4	*M4/4
+=-	=-
+16EELL	8e 8eeL
+16AA	.
+16C#	8e 8ee
+16EJJ	.
+16EELL	8c# 8cc#
+16AA	.
+16C#	8A 8aJ
+16EJJ	.
+16EELL	8a 8aaL
+16AA	.
+16C#	8a 8aa
+16EJJ	.
+16EELL	8e 8ee
+16AA	.
+16C#	8c# 8cc#J
+16EJJ	.
+=	=
+16EELL	8e 8eeL
+16AA	.
+16C#	8e 8ee
+16EJJ	.
+16EELL	8c# 8cc#
+16AA	.
+16C#	8A 8aJ
+16EJJ	.
+8C#L	8a 8aaL
+8C#	8a 8aa
+8AA	8e 8ee
+8EEJ	8c# 8cc#J
+=	=
+8EL	16r
+.	16aaLL
+8C#	16ccc#
+.	16aaJJ
+8A	16eeeLL
+.	16ccc#
+8EJ	16eee
+.	16ccc#JJ
+*clefG2	*
+8c#L	16eeeLL
+.	16ccc#
+8A	16eee
+.	16ccc#JJ
+8e	16eeeLL
+.	16ccc#
+8c#J	16eee
+.	16ccc#JJ
+=	=
+8aL	16eeeLL
+.	16ccc#
+8e	16eee
+.	16ccc#JJ
+8cc#	16eeeLL
+.	16ccc#
+8aJ	16eee
+.	16ccc#JJ
+8eeL	16eeeLL
+.	16ccc#
+8cc#	16eee
+.	16ccc#JJ
+8aa	16eeeLL
+.	16ccc#
+8eeJ	16eee
+.	16ccc#JJ
+=	=
+*-	*-

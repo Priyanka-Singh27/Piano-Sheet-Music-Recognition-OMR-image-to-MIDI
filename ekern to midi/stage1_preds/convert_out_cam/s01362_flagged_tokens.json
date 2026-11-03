@@ -1,0 +1,46 @@
+[
+  {
+    "note": "B#4",
+    "offset": 6.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F##5",
+    "offset": 7.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B#4",
+    "offset": 14.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F##5",
+    "offset": 15.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 28,
+    "column": 0,
+    "token": "=",
+    "token_index": 250,
+    "confidence": 0.6792
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 30,
+    "column": 2,
+    "token": "bb q",
+    "token_index": 271,
+    "confidence": 0.637
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 41,
+    "column": 2,
+    "token": "8 ccc # ]",
+    "token_index": 374,
+    "confidence": 0.389
+  }
+]

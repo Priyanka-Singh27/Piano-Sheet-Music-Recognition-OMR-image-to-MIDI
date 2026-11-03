@@ -1,0 +1,17 @@
+[
+  {
+    "note": "G#4",
+    "offset": 4.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G#2",
+    "offset": 4.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G#2",
+    "offset": 5.25,
+    "issue": "accidental_outside_key_signature"
+  }
+]

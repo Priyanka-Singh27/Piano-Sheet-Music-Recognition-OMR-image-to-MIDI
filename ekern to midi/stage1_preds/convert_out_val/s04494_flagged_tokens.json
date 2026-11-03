@@ -1,0 +1,51 @@
+[
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 3.75,
+    "issue": "duration_mismatch"
+  },
+  {
+    "note": "F##5",
+    "offset": 3.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F##4",
+    "offset": 8.625,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F##5",
+    "offset": 9.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F##6",
+    "offset": 10.583333333333334,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##3",
+    "offset": 12.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##4",
+    "offset": 14.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##4",
+    "offset": 15.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 24,
+    "column": 1,
+    "token": "32 ff # LLL",
+    "token_index": 168,
+    "confidence": 0.5926
+  }
+]

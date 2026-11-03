@@ -1,0 +1,28 @@
+[
+  {
+    "note": "C#5",
+    "offset": 0.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#4",
+    "offset": 9.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 1,
+    "column": 0,
+    "token": "*^",
+    "token_index": 4,
+    "confidence": 0.5618
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 53,
+    "column": 0,
+    "token": "*v",
+    "token_index": 527,
+    "confidence": 0.6002
+  }
+]

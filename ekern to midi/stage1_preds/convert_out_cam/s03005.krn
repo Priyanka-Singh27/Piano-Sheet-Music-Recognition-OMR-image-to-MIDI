@@ -1,0 +1,80 @@
+**kern	**kern
+*clefF4	*clefG2
+*k[b-e-]	*k[b-e-]
+*M4/4	*M4/4
+*met(c)	*met(c)
+=-	=-
+4F	32aLLL
+.	32b-
+.	32a
+.	32b-JJJ
+.	32bLLL
+.	32cc
+.	32b
+.	32ccJJJ
+4BB-	32cc#LLL
+.	32dd
+.	32cc#
+.	32ddJJJ
+.	32eeLLL
+.	32ff
+.	32ee
+.	32ffJJJ
+4C 4F	16aLL
+.	16b-
+.	16b
+.	16ccJJ
+4C 4E	16ccLL
+.	16b-
+.	16a
+.	16gJJ
+=	=
+*	*^
+2FF 2C 2F	4B- 4g	2c
+.	4A 4f	.
+2r	2r	8ffL
+.	.	8gg
+.	.	8aa-
+.	.	8ccJ
+*	*v	*v
+*clefG2	*
+=	=
+4f 4a-	4b
+8e 8g	8cc
+8r	16.r
+.	32gg
+4e- 4g-	4a
+8d 8f	8b-
+8r	16.r
+.	32ff
+=	=
+*^	*
+4b-	8gL	8bb-L
+.	8f	8bb-
+4b-	8e-	8aa
+.	8dJ	8gg
+4b-	8e-L	8ff#
+.	8d	8gg
+4b-	8c	8ff
+.	8B-J	16ee-L
+.	.	16ddJJ
+*v	*v	*
+=	=
+16ALL	8ffL
+16c	.
+16f	8ee-J
+16cJJ	.
+16B-LL	8r
+16d	.
+16f	8dd
+16dJJ	.
+16ALL	8bL
+16c	.
+16f	8gg
+16cJJ	.
+16GLL	8ff
+16c	.
+16B-JJ	16ee-L
+.	16ddJJ
+=	=
+*-	*-

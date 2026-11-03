@@ -1,0 +1,58 @@
+[
+  {
+    "note": "F#5",
+    "offset": 2.1666666666666665,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#5",
+    "offset": 3.1666666666666665,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#4",
+    "offset": 6.166666666666667,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "D#5",
+    "offset": 8.833333333333334,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G#5",
+    "offset": 9.833333333333334,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C#5",
+    "offset": 12.833333333333334,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A#4",
+    "offset": 13.833333333333334,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#4",
+    "offset": 14.833333333333334,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 1,
+    "column": 0,
+    "token": "*",
+    "token_index": 4,
+    "confidence": 0.5269
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 10,
+    "column": 2,
+    "token": "2 r",
+    "token_index": 78,
+    "confidence": 0.6207
+  }
+]

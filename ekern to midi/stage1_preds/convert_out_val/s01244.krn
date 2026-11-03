@@ -1,0 +1,56 @@
+**kern	**kern
+*clefF4	*clefG2
+*k[f#c#g#]	*k[f#c#g#]
+*M3/4	*M3/4
+=-	=-
+12gL	12ee 12eeeL
+12f 12g	12dd 12ddd
+12e 12gJ	12cc 12cccJ
+12f 12gL	12dd 12bbL
+12e 12g	12ee 12ccc
+12d 12gJ	12ff 12dddJ
+12e 12gL	12ee 12cccL
+12d 12g	12ff 12ddd
+12c 12gJ	12gg 12eeeJ
+=	=
+12d 12eL	12b 12gg#L
+12c 12e	12cc 12aa
+12B 12eJ	12dd 12bbJ
+12c 12eL	12cc 12aaL
+12B 12e	12dd 12bb
+12A 12eJ	12ee 12cccJ
+12B- 12cL	12g 12eeL
+12A 12c	12a 12ff
+12G 12cJ	12b- 12ggJ
+=	=
+12A 12cL	12a 12ffL
+12G 12c	12b- 12gg
+12F 12cJ	12cc 12aaJ
+12G 12AL	12e 12cc#L
+12F 12A	12f 12dd
+12E 12AJ	12g 12eeJ
+12F 12AL	12f 12ddL
+12E 12A	12a 12ee
+12D 12AJ	12a 12ffJ
+=	=
+12F 12GL	12d 12bL
+12E 12G	12e 12cc
+12D 12GJ	12f 12ddJ
+12E 12GL	12e 12ccL
+12D 12G	12f 12dd
+12C 12GJ	12g 12eeJ
+12G 12AL	12e 12cc#L
+12F 12A	12f 12dd
+12E 12AJ	12g 12eeJ
+=	=
+12F 12AL	12f 12ddL
+12E 12A	12g 12ee
+12D 12AJ	12a 12ff#J
+12F 12GL	12d 12bL
+12E 12G	12e 12cc
+12D 12GJ	12f 12ddJ
+12E 12GL	12e 12ccL
+12D 12G	12f 12dd
+12C 12GJ	12g 12eeJ
+=	=
+*-	*-

@@ -1,0 +1,16 @@
+[
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 3.0,
+    "actual_quarterLength": 2.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 35,
+    "column": 0,
+    "token": "*v",
+    "token_index": 246,
+    "confidence": 0.6036
+  }
+]

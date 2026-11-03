@@ -1,0 +1,54 @@
+[
+  {
+    "measure_number": 1,
+    "expected_quarterLength": 3.0,
+    "actual_quarterLength": 3.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 3.0,
+    "actual_quarterLength": 3.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 5,
+    "column": 0,
+    "token": "4 . A -",
+    "token_index": 21,
+    "confidence": 0.6108
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 53,
+    "column": 1,
+    "token": "16 ff",
+    "token_index": 342,
+    "confidence": 0.6219
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 54,
+    "column": 0,
+    "token": ".",
+    "token_index": 344,
+    "confidence": 0.5621
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 70,
+    "column": 0,
+    "token": "=",
+    "token_index": 441,
+    "confidence": 0.6755
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 71,
+    "column": 0,
+    "token": "*-",
+    "token_index": 445,
+    "confidence": 0.5263
+  }
+]

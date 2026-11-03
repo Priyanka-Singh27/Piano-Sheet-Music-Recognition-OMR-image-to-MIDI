@@ -1,0 +1,63 @@
+[
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 3.0,
+    "actual_quarterLength": 2.75,
+    "issue": "duration_mismatch"
+  },
+  {
+    "note": "C-5",
+    "offset": 0.6666666666666666,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C-5",
+    "offset": 0.8333333333333334,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "B--2",
+    "offset": 13.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 25,
+    "column": 0,
+    "token": "*v",
+    "token_index": 223,
+    "confidence": 0.6549
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 44,
+    "column": 2,
+    "token": "32 ff",
+    "token_index": 418,
+    "confidence": 0.5233
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 51,
+    "column": 2,
+    "token": "32 dd -",
+    "token_index": 480,
+    "confidence": 0.5116
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 52,
+    "column": 2,
+    "token": "32 ee -",
+    "token_index": 488,
+    "confidence": 0.6188
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 82,
+    "column": 0,
+    "token": "*",
+    "token_index": 775,
+    "confidence": 0.4413
+  }
+]

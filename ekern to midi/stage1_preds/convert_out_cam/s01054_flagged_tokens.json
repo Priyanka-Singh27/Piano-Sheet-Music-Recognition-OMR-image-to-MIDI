@@ -1,0 +1,18 @@
+[
+  {
+    "issue": "low_confidence_token",
+    "line": 12,
+    "column": 1,
+    "token": "2 r",
+    "token_index": 74,
+    "confidence": 0.3574
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 13,
+    "column": 0,
+    "token": "2 FF # : <s> 2 C # : <s> 2 A :",
+    "token_index": 82,
+    "confidence": 0.3925
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 2.75,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 0.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 4.0,
+    "actual_quarterLength": 3.5,
+    "issue": "duration_mismatch"
+  },
+  {
+    "note": "G-3",
+    "offset": 21.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G-3",
+    "offset": 22.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "A-2",
+    "offset": 22.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G-3",
+    "offset": 23.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G-3",
+    "offset": 24.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "F#4",
+    "offset": 26.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G#4",
+    "offset": 27.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G-4",
+    "offset": 37.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G-4",
+    "offset": 38.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G-4",
+    "offset": 39.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "E-5",
+    "offset": 39.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G-4",
+    "offset": 40.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 5,
+    "column": 0,
+    "token": "*^",
+    "token_index": 20,
+    "confidence": 0.2297
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 6,
+    "column": 1,
+    "token": "1 r",
+    "token_index": 27,
+    "confidence": 0.5147
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 23,
+    "column": 1,
+    "token": "8 e L",
+    "token_index": 161,
+    "confidence": 0.3553
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 26,
+    "column": 1,
+    "token": "2 e",
+    "token_index": 190,
+    "confidence": 0.5104
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 29,
+    "column": 2,
+    "token": ".",
+    "token_index": 216,
+    "confidence": 0.637
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 32,
+    "column": 0,
+    "token": "*",
+    "token_index": 235,
+    "confidence": 0.5226
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 52,
+    "column": 1,
+    "token": "32 dd LLL",
+    "token_index": 369,
+    "confidence": 0.3623
+  }
+]

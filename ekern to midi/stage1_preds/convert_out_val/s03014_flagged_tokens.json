@@ -1,0 +1,45 @@
+[
+  {
+    "issue": "low_confidence_token",
+    "line": 5,
+    "column": 1,
+    "token": "c q LLL",
+    "token_index": 24,
+    "confidence": 0.6944
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 6,
+    "column": 1,
+    "token": "e q",
+    "token_index": 28,
+    "confidence": 0.6478
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 7,
+    "column": 1,
+    "token": "g q JJJ",
+    "token_index": 33,
+    "confidence": 0.6802
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 15,
+    "column": 1,
+    "token": "cc q JJJ",
+    "token_index": 95,
+    "confidence": 0.5711
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 16,
+    "column": 0,
+    "token": "2 F # [ <s> 2 A [ <s> 2 c [ <s> 2 d [",
+    "token_index": 99,
+    "confidence": 0.2776
+  },
+  {
+    "issue": "malformed_repeats_stripped_for_midi"
+  }
+]

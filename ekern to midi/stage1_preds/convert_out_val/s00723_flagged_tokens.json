@@ -1,0 +1,186 @@
+[
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 6.0,
+    "actual_quarterLength": 6.25,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 6.0,
+    "actual_quarterLength": 6.25,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 6.0,
+    "actual_quarterLength": 5.25,
+    "issue": "duration_mismatch"
+  },
+  {
+    "measure_number": 0,
+    "expected_quarterLength": 6.0,
+    "actual_quarterLength": 5.0,
+    "issue": "duration_mismatch"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 82,
+    "column": 1,
+    "token": "8 r",
+    "token_index": 560,
+    "confidence": 0.6614
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 86,
+    "column": 1,
+    "token": "8 r",
+    "token_index": 594,
+    "confidence": 0.6344
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 102,
+    "column": 0,
+    "token": "16 c - LL",
+    "token_index": 698,
+    "confidence": 0.6212
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 111,
+    "column": 1,
+    "token": "16 ee - LL",
+    "token_index": 765,
+    "confidence": 0.6412
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 117,
+    "column": 0,
+    "token": ".",
+    "token_index": 803,
+    "confidence": 0.5126
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 120,
+    "column": 0,
+    "token": "8 r",
+    "token_index": 824,
+    "confidence": 0.6001
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 129,
+    "column": 0,
+    "token": "8 r",
+    "token_index": 885,
+    "confidence": 0.4499
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 129,
+    "column": 1,
+    "token": "16 cc - LL",
+    "token_index": 888,
+    "confidence": 0.4051
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 131,
+    "column": 0,
+    "token": "8 r",
+    "token_index": 898,
+    "confidence": 0.3823
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 132,
+    "column": 1,
+    "token": "16 bb - JJ",
+    "token_index": 908,
+    "confidence": 0.59
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 133,
+    "column": 0,
+    "token": "16 e - LL",
+    "token_index": 912,
+    "confidence": 0.6299
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 133,
+    "column": 1,
+    "token": "8 r",
+    "token_index": 917,
+    "confidence": 0.6967
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 135,
+    "column": 0,
+    "token": "8 r",
+    "token_index": 927,
+    "confidence": 0.3159
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 136,
+    "column": 0,
+    "token": ".",
+    "token_index": 932,
+    "confidence": 0.6672
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 136,
+    "column": 1,
+    "token": "16 gg LL",
+    "token_index": 935,
+    "confidence": 0.3938
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 137,
+    "column": 0,
+    "token": ".",
+    "token_index": 938,
+    "confidence": 0.3427
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 137,
+    "column": 1,
+    "token": "16 dd - JJ",
+    "token_index": 943,
+    "confidence": 0.5797
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 138,
+    "column": 1,
+    "token": "16 ccc JJ",
+    "token_index": 949,
+    "confidence": 0.4956
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 139,
+    "column": 0,
+    "token": "16 a - LL",
+    "token_index": 952,
+    "confidence": 0.5667
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 140,
+    "column": 0,
+    "token": "16 cc JJ",
+    "token_index": 960,
+    "confidence": 0.475
+  }
+]

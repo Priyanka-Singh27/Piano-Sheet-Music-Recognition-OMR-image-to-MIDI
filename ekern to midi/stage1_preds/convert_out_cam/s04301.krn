@@ -1,0 +1,115 @@
+**kern	**kern
+*	*^
+*clefF4	*clefG2	*clefG2
+*k[b-e-]	*k[b-e-]	*k[b-e-]
+*M9/16	*M9/16	*M9/16
+=-	=-	=-
+48GGLLL	4.b-	16B- 16dLL
+48D	.	.
+48G	.	.
+48FF#	.	16d
+48D	.	.
+48F#	.	.
+48GG	.	16dJJ
+48D	.	.
+48GJJJ	.	.
+48GGLLL	.	16dLL
+48D	.	.
+48G	.	.
+48FF#	.	16d
+48D	.	.
+48GG	.	16dJJ
+48D	.	.
+48GJJJ	.	.
+48GGLLL	8.b-L	16dLL
+48D	.	.
+48G	.	.
+48GG	.	16d
+48D	.	.
+48G	.	.
+48FF#	16aJk	16dJJ
+48D	.	.
+48AJJJ	.	.
+=	=	=
+48FF#LLL	4.a	16dLL
+48D	.	.
+48A	.	.
+48GG	.	16d
+48D	.	.
+48A	.	.
+48FF#	.	16dJJ
+48D	.	.
+48AJJJ	.	.
+48FF#LLL	.	16dLL
+48D	.	.
+48A	.	.
+48GG	.	16d
+48D	.	.
+48A	.	.
+48FF#	.	16dJJ
+48D	.	.
+48AJJJ	.	.
+48FF#LLL	8aL	16dLL
+48D	.	.
+48A	.	.
+48GG	.	16d
+48D	.	.
+48A	.	.
+48FF#	16ddJk	16d 16aJJ
+48D	.	.
+48AJJJ	.	.
+=	=	=
+48FF#LLL	8.ddL	16d 16aLL
+48D	.	.
+48A	.	.
+48GG	.	16d 16a
+48D	.	.
+48FF#	.	.
+48D	.	16d 16aJJ
+48AJJJ	.	.
+48GGLLL	8.ddJ	16d 16b-LL
+48D	.	.
+48B-	.	.
+48C	.	16d 16b-
+48DD	.	.
+48GG	.	16d 16b-JJ
+48DJJJ	.	.
+48EE-LLL	8ccL	16d 16b-LL
+48E-	.	.
+48EE-	.	.
+48E-	.	.
+48EE-	.	16d 16b-
+48E-	.	.
+48CC#	16b-Jk	16gJJ
+48C#	.	.
+48CC#JJJ	.	.
+=	=	=
+48DDLLL	8.b-L	16d 16gLL
+48C#	.	.
+48D	.	.
+48CC#	.	16d 16g
+48C#	.	.
+48D	.	.
+48DD	.	16d 16gJJ
+48C#	.	.
+48DJJJ	.	.
+48DDLLL	8.aL	16d 16f#LL
+48C#	.	.
+48D	.	.
+48DD	.	16d 16f#
+48C#	.	.
+48DD	.	16d 16f#JJ
+48DJJJ	.	.
+48EELLL	8.aL	16d 16gLL
+48E	.	.
+48FF#	.	.
+48D	.	.
+48DD	.	16d 16f#
+48D	.	.	.
+48EE	.	16d 16gJJ
+48C#	.	.	.
+48CC#	.	.	.
+48EEJJJ	.	.	.
+=	=	=	=
+48DDLLL	=	=	=
+48DDLLL	*-	*-

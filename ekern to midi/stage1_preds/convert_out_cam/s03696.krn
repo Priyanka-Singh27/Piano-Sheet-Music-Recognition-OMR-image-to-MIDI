@@ -1,0 +1,84 @@
+**kern	**kern
+*clefF4	*clefG2
+*k[]	*k[]
+*M2/2	*M2/2
+*met(C|)	*met(C|)
+=-	=-
+8GGG- 8GG-	16fff-
+.	16eee--
+8BB-- 8D- 8B--	16ddd-
+.	16ccc
+8r	16ddd-
+.	16ccc-
+8GGG- 8GG-	16bb--
+.	16aa-
+8BB-- 8D- 8B--	16gg-
+.	16ff-
+8r	16ee--
+.	16dd-
+8DDD- 8DD-	16cc-
+.	16b--
+=	=
+8GGG- 8GG-	16a-
+.	16b--
+8C- 8E-- 8c-	16cc-
+.	16dd-
+8r	16ee--
+.	16ff-
+8DDD- 8DD-	16gg-
+.	16ff-
+8GGG- 8GG-	16ee--
+.	16dd-
+8C- 8E-- 8B- 8c-	16cc-
+.	16b--
+8r	16a-
+.	16cc-
+=	=
+8GGG-- 8GG--	16ee--
+.	16b-
+8C- 8E- 8c-	16dd--
+.	16cc-
+8r	16a-
+.	16e--
+8GGG- 8GG-	16b--
+.	16a-
+8C- 8E- 8c-	16b--
+.	16cc-
+8r	16dd--
+.	16cc-
+8CCC- 8CC-	16cc
+.	16dd-
+=	=
+8GGG-- 8GG--	16ff-
+.	16ee--
+8C- 8E-- 8c-	16gg
+.	16aa-
+8r	16bb--
+.	16aa-
+8CCC- 8CC-	16bb--
+.	16ccc-
+8C- 8E-- 8c-	16ddd-
+.	16ccc-
+8C- 8E-- 8c-	16ddd-
+.	16ddd-
+8r	16fff-
+.	16eee-
+=	=
+8GGG- 8GG-	16eee--
+.	16dddd-
+8C- 8E-- 8c-	16ddd-
+.	16ccc-
+8r	16ddd-
+.	16ccc-
+8DDD- 8DD-	16bb--
+.	16ccc-
+8GGG- 8GG-	16bb--
+.	16ccc-
+8C- 8E-- 8c-	16bb--
+.	16ddd-
+8r	16fff-
+.	16ggg-
+8CCC- 8CC-	16fff-
+.	16eee-
+=	=
+*-	*-

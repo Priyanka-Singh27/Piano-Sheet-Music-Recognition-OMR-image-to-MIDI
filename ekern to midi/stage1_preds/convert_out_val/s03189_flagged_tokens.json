@@ -1,0 +1,78 @@
+[
+  {
+    "note": "C##2",
+    "offset": 9.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##2",
+    "offset": 10.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##2",
+    "offset": 10.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "C##2",
+    "offset": 11.75,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G##1",
+    "offset": 16.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G##1",
+    "offset": 18.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G##1",
+    "offset": 18.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G##1",
+    "offset": 19.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G##1",
+    "offset": 20.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G##1",
+    "offset": 22.0,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G##1",
+    "offset": 22.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "note": "G##1",
+    "offset": 23.5,
+    "issue": "accidental_outside_key_signature"
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 96,
+    "column": 1,
+    "token": "16 f # <s> 16 b #",
+    "token_index": 678,
+    "confidence": 0.481
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 102,
+    "column": 0,
+    "token": "8 BBB #",
+    "token_index": 729,
+    "confidence": 0.5746
+  }
+]

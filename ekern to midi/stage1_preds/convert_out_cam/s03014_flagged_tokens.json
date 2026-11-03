@@ -1,0 +1,29 @@
+[
+  {
+    "issue": "low_confidence_token",
+    "line": 6,
+    "column": 1,
+    "token": "d q",
+    "token_index": 28,
+    "confidence": 0.6705
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 13,
+    "column": 1,
+    "token": "f # q LLL",
+    "token_index": 81,
+    "confidence": 0.6791
+  },
+  {
+    "issue": "low_confidence_token",
+    "line": 15,
+    "column": 1,
+    "token": "cc q JJJ",
+    "token_index": 95,
+    "confidence": 0.5573
+  },
+  {
+    "issue": "malformed_repeats_stripped_for_midi"
+  }
+]
